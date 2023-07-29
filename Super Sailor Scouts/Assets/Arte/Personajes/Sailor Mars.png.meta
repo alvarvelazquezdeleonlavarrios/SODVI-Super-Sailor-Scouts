@@ -1,0 +1,3951 @@
+fileFormatVersion: 2
+guid: 2af3c005cf4250a4ea66af0a1597b6f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sailor Mars_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1358
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba67c77ad438c94db563056d3672e96
+      internalID: 952435595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1360
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b3d547ac3686e4795afbc3b67ee139
+      internalID: -1881998257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1360
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d984eef68f65ad4bb0359b442973f71
+      internalID: -704531788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1360
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976728fa485efe489c9c6c45d94e59a
+      internalID: -1255447848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1360
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b32551790daf47965ba21ca41c6f3
+      internalID: -99283181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1360
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd89f838bd338d48bbe88f83aa5c0ef
+      internalID: 229077700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1360
+        width: 33
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52534e256f2a6f4fbfbcf0208ac59e0
+      internalID: -25165310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1359
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444e4c3a6fceef4abcf3ad13cbb0cbd
+      internalID: -480724466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1359
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a80371700506f43a11859c58a65c38
+      internalID: -288255513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1361
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd12f220426240458bb05c1a2882d2b
+      internalID: 1090821551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1360
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f3836a1f3ffc458eb2e2d9a83a4e8
+      internalID: -1595490314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1360
+        width: 34
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bef35349777c04dbd92fe1c9e9b45f
+      internalID: 1673538128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1359
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069d4798ee2d8cc49adccdb0e15a2aa0
+      internalID: 207642637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1352
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b8d89ae798f9448742e8ab3cd03da
+      internalID: 1898141465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1352
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cbdaa12a01dd04a9ea3a288146f75a
+      internalID: -723559890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_15
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1352
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320fb39c3457604992591815db95ff8
+      internalID: 345426802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1352
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703d5b817e76644f83426ed39066991
+      internalID: -934130396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1248
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb6da159e7aea146a3796e18c2ea9b6
+      internalID: -532290986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1247
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83ad98f09d0834f855ccb493fe35bf
+      internalID: 555230631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1247
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42540e9af2826594b8589959b073d503
+      internalID: -912748497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1247
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4813cd5570b24bba326a0c0af0db3
+      internalID: -1865590155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1247
+        width: 36
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb44468bf235a4983e38ff25ec4e80
+      internalID: -1245571121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1247
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7448fcaf5e95f1a4fbd84061555db341
+      internalID: -1309221296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1246
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca52ee94f112d459ed41166e67b5b3
+      internalID: 510544621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1248
+        width: 59
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159a5b814fcbb041b111320126d7a79
+      internalID: -1935067847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1248
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76236817a9cc56c439f3bced68e9b4a1
+      internalID: 1766165280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1248
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20690508379c8034f996c5ddd58f4474
+      internalID: 1244684703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1249
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20fb2aad998d8d439716cb9a87205b0
+      internalID: -566648241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1250
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30bfd5e00583a24aaadd800053c8bb6
+      internalID: 1189267145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1249
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948cff04ba4db8142880e94ee2cced19
+      internalID: 1822221978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1249
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d6910ac0c7894ebdc4970bba8c0c5
+      internalID: -969802058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_31
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1249
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e8ecc99a2583d498ecf15222ed9745
+      internalID: 1745120578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1148
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd4617861ede44a9394c305a28a66f
+      internalID: 1296662689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1148
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1391f6b1c0cedb46ad140536fe283ae
+      internalID: -469335445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1148
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d01816eba68c7458dca55f085185f9
+      internalID: -388866119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1149
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f239a13b41400e4e91f2d07e2f9de7e
+      internalID: -13325309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_36
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1149
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8ebceba952ed469333ca56e66df51
+      internalID: 2029721114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1149
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f78cc699b8317a4f9928ce62ff8d975
+      internalID: -461532986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1147
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90c2fb260cd6f4eba620bcab0954d1
+      internalID: 1208581472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1147
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da0c80636adde445a65511d8425c988
+      internalID: -931330566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1149
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc5ada442163846a23d3d8cbcc09cf
+      internalID: 675718811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1035
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af904fccb68ea234aa2684feb09a442a
+      internalID: 1395821544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1034
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80a93a7e6e7d743ad91c94a42eba5d
+      internalID: 70755093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1034
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcbce6fc41fb824fbffc63ad2ac0940
+      internalID: 256522981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1040
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e23c3be62d107439a143ec7ed3802e
+      internalID: 1172257440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1053
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c77074c3c7a9e499788b86f3fb9a94
+      internalID: 1372413778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1077
+        width: 112
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b07bdaf5d7b2d49b9ea67296e2ea5d
+      internalID: 1580089647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_47
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1054
+        width: 108
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90934e323d464b2479c89b49f89bbbeb
+      internalID: -1557412310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1053
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9949088681ca647ae295110b506eb4
+      internalID: 643958295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_49
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1031
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e97654bf12f1064bae79f5fe0b0ae81
+      internalID: -610458160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_50
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1036
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820749a5422ae8e46bc55118d2d355e7
+      internalID: -1592254673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_51
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1055
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4e0b1534858174fa931f1f0f391837
+      internalID: 1429884625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_52
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1047
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861748aaa2ea2db4787b2e17f7391243
+      internalID: -485989722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 920
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38459aeba9f8a64e942c8684521af2b
+      internalID: -561316321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 920
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d410123549dcd43939b6b595ba03c1
+      internalID: 1096544622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 921
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae964504453a540bc95b93592416c5
+      internalID: 2133727934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 922
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b637a3c79fe050743be3aa820dd9e73c
+      internalID: 1606986649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 922
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9960907c7fd840b15494fac24ee71
+      internalID: 637813198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_58
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 921
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed319a69b872fa84793b80a1cd25fa6e
+      internalID: 1694192570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_59
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 921
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c0c4abeba93846b41405c8ebdc204
+      internalID: 1107938284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_60
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 921
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391f2caada64af4d97092cbb0167a7b
+      internalID: -1921887594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_61
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 921
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ac02b2cd82b144e8437522de85502d
+      internalID: 2009549934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_62
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 921
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee128bd9b6cdee84c9a7d2e1e9b5fa4c
+      internalID: -220363873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 781
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4b2e195c128c49aa0f3f7b66aead3
+      internalID: 705717298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 791
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d08c4547022ee4eb41661262b63e07
+      internalID: -505906643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 813
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79772ec29e95e4a41a65b0bfd67c2c5d
+      internalID: 556999634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_66
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 824
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8360e5d34153419cee68e95251d5b
+      internalID: 521881129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 832
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ea9220293d6e45abc249c545a7386
+      internalID: 165704845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_68
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 781
+        width: 50
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763ca81234bb9545ac450564b61ac8c
+      internalID: -546232309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 780
+        width: 64
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb096a936c1d976439c0e4511c4c7836
+      internalID: -45343338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_70
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 778
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654d6e3ed6e3b24e8d41da6c5e43133
+      internalID: -1003002880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_71
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 779
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a146c6f5f2580841a79fa489c7e62bd
+      internalID: 727009356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 779
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4062e4233cdf4a96277af94ad732b
+      internalID: 1504102247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_73
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 779
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b366a0c0ee064c938d69615b16abd
+      internalID: 463687592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_74
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 779
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb4154ce7263834ba0fe0a09dafea32
+      internalID: -1537582425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 781
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634bee5f80c60ce4cb838ff0d8a92607
+      internalID: -1340503017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 782
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce4dee08b2f19e41b6910df3388c1a3
+      internalID: 1012943088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 780
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433baf8c637c58940a131938590c3964
+      internalID: 614207703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 781
+        width: 65
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f294642c4e503444ad89925415f27ec
+      internalID: -1117038936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 627
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ae69573e22a14a9c08ffd9dcb6a3d
+      internalID: -397219823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_80
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 627
+        width: 38
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32d5e87a0182e4382ec4c0e26b088c
+      internalID: -774834170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 643
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4da60832662c440bb2a0735e4f92b9
+      internalID: 1805549712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 659
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae11ec2d9c526a439604ba45cbf36af
+      internalID: 2050634795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_83
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 666
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e5d6d77d6361d40bca5623b35fad15
+      internalID: -981813371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_84
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 666
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7157786cfd8c9a249910a9544663d64c
+      internalID: 432386493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_85
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 659
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5609e8891db2b42a3ca96b7aebb243
+      internalID: -905202179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 643
+        width: 52
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc0d8339363f2a43a9214f753e4c89e
+      internalID: -1428379972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_87
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 627
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82251ac52a0abea41aeb8dd1c99de454
+      internalID: 153892923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_88
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 621
+        width: 44
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cc0cff6f39762438de446894b0d8c6
+      internalID: -1990578372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_89
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 628
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca68f7f137970840bb2d92247aea257
+      internalID: 348251397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_90
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 628
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a87a93172efd0d4e84abdabba926c5c
+      internalID: 1897614737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_91
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 625
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30711ef64aa69cc4387994ab78e5fb18
+      internalID: -1221558445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 504
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6fb582b6b40a4bb9c0229d08de935
+      internalID: 291598749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 522
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dca7e2a1a9b9743af8ec5c0dca6b7e
+      internalID: 1442457343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 522
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c87c73366ea13a49b779374a39a9146
+      internalID: -1244632564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 512
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ab59725bdb7448a5d0eae64c25504
+      internalID: 314719211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_96
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 507
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac2fba1b3109349b9693d83961f435
+      internalID: 1746518632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_97
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 522
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9e3e2c096cdd4589afa21744a1efd
+      internalID: -1076677351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 522
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dac0503c34fc64396d4aca605b6df4
+      internalID: -376014129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_99
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 511
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4823a695302a6c4d92304ede2561a86
+      internalID: -171136356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_100
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 506
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6d10d5190f004088d4046e0bda8ac
+      internalID: 1121134633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_101
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 531
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7b6b046da84e64990085618ed996f3
+      internalID: -2062994632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_102
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 528
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a0ab629eb5ef4a97652fd6a1061bc
+      internalID: 1423957141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_103
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 388
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c568b0e6ebaa01459973cef54594c76
+      internalID: -918077630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_104
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 393
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f570b32ea4a78a4fbc7d4a07dbb1e8f
+      internalID: 354300715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_105
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 394
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a57140a65fcb648b800a4824127826
+      internalID: -906620883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 391
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7717e4664ac1499a7fccdfafe11e7
+      internalID: 816825561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_107
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 388
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef74faec11ca7a84aa48b2b7a9840e53
+      internalID: -1869887433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_108
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 387
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b863fc3e34af654280347777d285583
+      internalID: -2053870259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_109
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 386
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711341d317260894894f856dde7b5e19
+      internalID: 889846255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_110
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 387
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb09558a65860c4ead2aa057a27169e
+      internalID: -1901192870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_111
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 387
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b54f1708e6beb745a40e39179735aba
+      internalID: 1397831976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_112
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 387
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aab0f2bc8705d4f819826c8393aec7
+      internalID: 1552523565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_113
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 387
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ffa96da073fb548a6e4418cfa1fe69
+      internalID: -952949562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_114
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 389
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe75e0c762340e44b84b95244568a7e
+      internalID: -697368613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed484dc4c6d86d47adbdb4a1534be97
+      internalID: 346677053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_116
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 269
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca77d7e8ebdbaa47ac3f0eb6e968144
+      internalID: -1407236415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_117
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 270
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031de02ff09f2f4a8438dbb15a515b3
+      internalID: 638997013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_118
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 269
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f7e08c6f48fb4fa4ea71671ee0205
+      internalID: 1865255887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 269
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a71c0cfeeb0243bdd66d2d30a65a8
+      internalID: -865512683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_120
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 269
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0f6cab28da4a4aadf123f40219d3f
+      internalID: 1246820578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_121
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 268
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b469eb789c83bc4cb8f5f65dabe5455
+      internalID: -2032790563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_122
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 269
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405d33c8a39a0945b80a0e998477a52
+      internalID: -632967088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_123
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 268
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f24edfe6b054408581fbbeb4cb047
+      internalID: -322323625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_124
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 269
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2c556ef730414489150794e90811a
+      internalID: -1732963218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_125
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 269
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32210ea61b976314d9b613efc27c0ea2
+      internalID: 609645099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_126
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 269
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94743a4a77f099a40a3bb57c1315d0aa
+      internalID: -1266616189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 142
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa2b29f51aec644af8baa9110639ed
+      internalID: -408269178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_128
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 142
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b486ed04072a243b9b15b7ebbb5501
+      internalID: 667774813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_129
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 142
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d645ced96bdd4864981275ea2c79308b
+      internalID: -1228827984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_130
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 142
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43101c3820ec00640a86c1571452a32e
+      internalID: -1766315465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_131
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 140
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c8ba9d5773c24d8fb4abd9ff159b7
+      internalID: -114241922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_132
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 143
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126bbd447d67164da4d46a1268cf30a
+      internalID: -1834220674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_133
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 144
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07880a5f7dfc5894f9ea9762f1da83e7
+      internalID: 1224042443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_134
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 144
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846331974eae0543b676cb2d1c65701
+      internalID: 1819326485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_135
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 144
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c1762e639afc458c3bbcdeb837baa
+      internalID: -1150419720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_136
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 141
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c589cbf4d7f8243b0fb54d3a495cdd
+      internalID: -41359779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_137
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 141
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e0281bf985a544922091f8849e311
+      internalID: -699967810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_138
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 141
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6249690a7639469ff55f622faa13c
+      internalID: 455336803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_139
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 142
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d004795431d4d4aade21d9e0155750
+      internalID: -199303570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_140
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb44cf157027341a610caf5f10569c
+      internalID: -925568516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_141
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101807b681474a4dabc8d587ecb3139
+      internalID: -497467795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 28
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1518a3acfbaefc40a8140c8eddaa78b
+      internalID: -2138256716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_143
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9de6fd868091542ac73507b0f22a48
+      internalID: 48528375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_144
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 12
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81165d3b8b741244faeb176cfd4eb24b
+      internalID: -1037715140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_145
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 12
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ff78a6c9704240973f84e4bbef086
+      internalID: 946422191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_146
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 24
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7654c54758088c4f94105cb33172cec
+      internalID: -1815573466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_147
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 28
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ad9bc24ea54a41adad06a629a7522
+      internalID: 1284017812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_148
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 28
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e44d17689b2b4bbb77354dda156a5
+      internalID: -1657988917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_149
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 28
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce87d638470734d832f7b893fac590
+      internalID: -1566621460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_150
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 23
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9afc1bb6958354e8f6cfe8182feb19
+      internalID: -39755936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_151
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 30
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db07adf94427d640a3a5af82ba21e0c
+      internalID: -2078057145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_152
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 72
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5382b2569f1c84d9b132415eb1606a
+      internalID: 294992349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_153
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 61
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc4082cbcbcf84fba453682aa31654
+      internalID: -1498131864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_154
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb172adfa8a1a4428f94c0cdd24f2cf
+      internalID: 385159171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_155
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438b4731ea0a994f8179683c98cfe0c
+      internalID: -1481605877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_156
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e8f487463aa74bb2673c1d497761c
+      internalID: 730404885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_157
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 59
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0e129a80209b47ae528dfc47e6643
+      internalID: 769226519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_158
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 48
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0c1e9742acb94b9eaeab7c1f21529
+      internalID: 1202386514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_159
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 50
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4bb71f38bc7694dbb544425ae27e1b
+      internalID: -1072487430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_160
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bc7212d611aa4999f82ab52de2fd3
+      internalID: -841773972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_161
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5257b351c5fe7740b2329481b116cac
+      internalID: 1103817935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_162
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 50
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f3af650e901548a5513610796d152
+      internalID: 88613371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_163
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61062d2576095e149a354bfc471a3ce8
+      internalID: 1799860712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_164
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 39
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b070c315882734195caddd344d1c0b
+      internalID: 511330594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_165
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 39
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302382999bf4004c879e3c24ae05c0e
+      internalID: -459566448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_166
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d4dace6d6b714092ffbd6d0b5cfc3
+      internalID: -1924630895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_167
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 29
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462c2d90263ed5e469d23c871a55ced3
+      internalID: -869788695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_168
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d85066ad22834bb7bc564cbf10b82
+      internalID: -1939181179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_169
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a2a1ba85cde84f8a90cbc02b70d0c
+      internalID: 701413567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_170
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d966bdbbe04b4dbb43dbb33f703ab
+      internalID: -1432744872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_171
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 18
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c975127674da24faf3f18c3cae4138
+      internalID: -900658819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_172
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215b4dd39bd6aa4c931208f3049eeb5
+      internalID: 1112967349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mars_173
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56e588447c10e4b851792d63f9b3af
+      internalID: 1208365004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sailor Mars_0: 952435595
+      Sailor Mars_1: -1881998257
+      Sailor Mars_10: -1595490314
+      Sailor Mars_100: 1121134633
+      Sailor Mars_101: -2062994632
+      Sailor Mars_102: 1423957141
+      Sailor Mars_103: -918077630
+      Sailor Mars_104: 354300715
+      Sailor Mars_105: -906620883
+      Sailor Mars_106: 816825561
+      Sailor Mars_107: -1869887433
+      Sailor Mars_108: -2053870259
+      Sailor Mars_109: 889846255
+      Sailor Mars_11: 1673538128
+      Sailor Mars_110: -1901192870
+      Sailor Mars_111: 1397831976
+      Sailor Mars_112: 1552523565
+      Sailor Mars_113: -952949562
+      Sailor Mars_114: -697368613
+      Sailor Mars_115: 346677053
+      Sailor Mars_116: -1407236415
+      Sailor Mars_117: 638997013
+      Sailor Mars_118: 1865255887
+      Sailor Mars_119: -865512683
+      Sailor Mars_12: 207642637
+      Sailor Mars_120: 1246820578
+      Sailor Mars_121: -2032790563
+      Sailor Mars_122: -632967088
+      Sailor Mars_123: -322323625
+      Sailor Mars_124: -1732963218
+      Sailor Mars_125: 609645099
+      Sailor Mars_126: -1266616189
+      Sailor Mars_127: -408269178
+      Sailor Mars_128: 667774813
+      Sailor Mars_129: -1228827984
+      Sailor Mars_13: 1898141465
+      Sailor Mars_130: -1766315465
+      Sailor Mars_131: -114241922
+      Sailor Mars_132: -1834220674
+      Sailor Mars_133: 1224042443
+      Sailor Mars_134: 1819326485
+      Sailor Mars_135: -1150419720
+      Sailor Mars_136: -41359779
+      Sailor Mars_137: -699967810
+      Sailor Mars_138: 455336803
+      Sailor Mars_139: -199303570
+      Sailor Mars_14: -723559890
+      Sailor Mars_140: -925568516
+      Sailor Mars_141: -497467795
+      Sailor Mars_142: -2138256716
+      Sailor Mars_143: 48528375
+      Sailor Mars_144: -1037715140
+      Sailor Mars_145: 946422191
+      Sailor Mars_146: -1815573466
+      Sailor Mars_147: 1284017812
+      Sailor Mars_148: -1657988917
+      Sailor Mars_149: -1566621460
+      Sailor Mars_15: 345426802
+      Sailor Mars_150: -39755936
+      Sailor Mars_151: -2078057145
+      Sailor Mars_152: 294992349
+      Sailor Mars_153: -1498131864
+      Sailor Mars_154: 385159171
+      Sailor Mars_155: -1481605877
+      Sailor Mars_156: 730404885
+      Sailor Mars_157: 769226519
+      Sailor Mars_158: 1202386514
+      Sailor Mars_159: -1072487430
+      Sailor Mars_16: -934130396
+      Sailor Mars_160: -841773972
+      Sailor Mars_161: 1103817935
+      Sailor Mars_162: 88613371
+      Sailor Mars_163: 1799860712
+      Sailor Mars_164: 511330594
+      Sailor Mars_165: -459566448
+      Sailor Mars_166: -1924630895
+      Sailor Mars_167: -869788695
+      Sailor Mars_168: -1939181179
+      Sailor Mars_169: 701413567
+      Sailor Mars_17: -532290986
+      Sailor Mars_170: -1432744872
+      Sailor Mars_171: -900658819
+      Sailor Mars_172: 1112967349
+      Sailor Mars_173: 1208365004
+      Sailor Mars_18: 555230631
+      Sailor Mars_19: -912748497
+      Sailor Mars_2: -704531788
+      Sailor Mars_20: -1865590155
+      Sailor Mars_21: -1245571121
+      Sailor Mars_22: -1309221296
+      Sailor Mars_23: 510544621
+      Sailor Mars_24: -1935067847
+      Sailor Mars_25: 1766165280
+      Sailor Mars_26: 1244684703
+      Sailor Mars_27: -566648241
+      Sailor Mars_28: 1189267145
+      Sailor Mars_29: 1822221978
+      Sailor Mars_3: -1255447848
+      Sailor Mars_30: -969802058
+      Sailor Mars_31: 1745120578
+      Sailor Mars_32: 1296662689
+      Sailor Mars_33: -469335445
+      Sailor Mars_34: -388866119
+      Sailor Mars_35: -13325309
+      Sailor Mars_36: 2029721114
+      Sailor Mars_37: -461532986
+      Sailor Mars_38: 1208581472
+      Sailor Mars_39: -931330566
+      Sailor Mars_4: -99283181
+      Sailor Mars_40: 675718811
+      Sailor Mars_41: 1395821544
+      Sailor Mars_42: 70755093
+      Sailor Mars_43: 256522981
+      Sailor Mars_44: 1172257440
+      Sailor Mars_45: 1372413778
+      Sailor Mars_46: 1580089647
+      Sailor Mars_47: -1557412310
+      Sailor Mars_48: 643958295
+      Sailor Mars_49: -610458160
+      Sailor Mars_5: 229077700
+      Sailor Mars_50: -1592254673
+      Sailor Mars_51: 1429884625
+      Sailor Mars_52: -485989722
+      Sailor Mars_53: -561316321
+      Sailor Mars_54: 1096544622
+      Sailor Mars_55: 2133727934
+      Sailor Mars_56: 1606986649
+      Sailor Mars_57: 637813198
+      Sailor Mars_58: 1694192570
+      Sailor Mars_59: 1107938284
+      Sailor Mars_6: -25165310
+      Sailor Mars_60: -1921887594
+      Sailor Mars_61: 2009549934
+      Sailor Mars_62: -220363873
+      Sailor Mars_63: 705717298
+      Sailor Mars_64: -505906643
+      Sailor Mars_65: 556999634
+      Sailor Mars_66: 521881129
+      Sailor Mars_67: 165704845
+      Sailor Mars_68: -546232309
+      Sailor Mars_69: -45343338
+      Sailor Mars_7: -480724466
+      Sailor Mars_70: -1003002880
+      Sailor Mars_71: 727009356
+      Sailor Mars_72: 1504102247
+      Sailor Mars_73: 463687592
+      Sailor Mars_74: -1537582425
+      Sailor Mars_75: -1340503017
+      Sailor Mars_76: 1012943088
+      Sailor Mars_77: 614207703
+      Sailor Mars_78: -1117038936
+      Sailor Mars_79: -397219823
+      Sailor Mars_8: -288255513
+      Sailor Mars_80: -774834170
+      Sailor Mars_81: 1805549712
+      Sailor Mars_82: 2050634795
+      Sailor Mars_83: -981813371
+      Sailor Mars_84: 432386493
+      Sailor Mars_85: -905202179
+      Sailor Mars_86: -1428379972
+      Sailor Mars_87: 153892923
+      Sailor Mars_88: -1990578372
+      Sailor Mars_89: 348251397
+      Sailor Mars_9: 1090821551
+      Sailor Mars_90: 1897614737
+      Sailor Mars_91: -1221558445
+      Sailor Mars_92: 291598749
+      Sailor Mars_93: 1442457343
+      Sailor Mars_94: -1244632564
+      Sailor Mars_95: 314719211
+      Sailor Mars_96: 1746518632
+      Sailor Mars_97: -1076677351
+      Sailor Mars_98: -376014129
+      Sailor Mars_99: -171136356
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

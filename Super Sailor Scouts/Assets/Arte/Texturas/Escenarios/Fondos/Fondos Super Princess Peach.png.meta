@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 3be0f7dd4812a8240a22bda8ed5faa85
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1710
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041604ababcf87c428330416ec49f2a5
+      internalID: 1305998014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1710
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0f433f5d9cb94ba5427ea74210430
+      internalID: 979755339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1705
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced8edf253d74aa4884f097c62e570ed
+      internalID: -2023729473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1710
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02cd3522d1cd714fb3dcb34e9119c23
+      internalID: 574499280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1710
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f2ece7744f2154896e1506b0b36dbf
+      internalID: 1351232074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1710
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c90677c18066047bceb7ec24f60616
+      internalID: 82752009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1710
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3f9fce123fc4479e5f1c5ea89fe2d
+      internalID: 458154566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1710
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be4a05ff1dc574eb457a8d392f47fc
+      internalID: 908842271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1710
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decaa097da525f74fb7f5b70323228b1
+      internalID: -1038625588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1710
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853e13e6720b624da3daca98a6bafe7
+      internalID: 1060184611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1710
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a6a38a20c09b44a86f475423fa6f4
+      internalID: 1987234194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1710
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b59f3fc7ab441948b8f2a9bc8c0c47c
+      internalID: 838660675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1710
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c232ef84d3f057a4785f359d71dfe8b1
+      internalID: 1780724373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1710
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3ff1bd25021141afab2a026188c75
+      internalID: 1754770720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1710
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d975ce2e6a7f7b24aa68fc660cdaf830
+      internalID: -992039323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1710
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d0b2a65294e94ea074e334b4a98a8
+      internalID: 1466156121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1710
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6f6db833460f4b99c08f846c3fde8
+      internalID: 1107604505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1710
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c10d69da912c342b5c931aae3e6f1d
+      internalID: -44212711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1710
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af445c613309d04186002d130ddd727
+      internalID: 1072430602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1710
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55042747ecb02f245b1ceb80bba74ea2
+      internalID: -1201849131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1710
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adddfe3aaa392534f9cc1fdb782acbaf
+      internalID: 736844572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1705
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2349be1c5ad59a44ab6706a3b3084c33
+      internalID: 1669526590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1710
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf4238821081144bce909595c5d86f
+      internalID: 1807443391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1710
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ec96370a436f49a41d9d8b4f5cc42
+      internalID: 2103254053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1710
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396265e84400f940a211133a956c6b2
+      internalID: 2014218761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1710
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50da4d16c15fd48b4b1f32bf06e9e3
+      internalID: 1082302853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1710
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3c4f44acbf634da76b635c74b2352
+      internalID: 152808565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1508
+        width: 256
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ebec4a277ebe40b28ca644b283ea3
+      internalID: -166301075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1504
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bfb759dc1b5d44870a27279e2496b
+      internalID: 1603729278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1379
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b2e18496746a4cb0092edb2cce68c
+      internalID: -227614352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1379
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd0115780401ab41827e075400bccbd
+      internalID: 1286997926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1379
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3ab3ab1a7b6042b6d5cad1832f0cd
+      internalID: 1397349288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1379
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0641e314a6f745bfc7725986e9327
+      internalID: -1213635776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1223
+        width: 511
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2553e3d216095347a127e4748858665
+      internalID: 1838933427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1100
+        width: 512
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98d929572f8c0468568737df693371
+      internalID: 308098067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 827
+        width: 514
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241c2a31b408b1489bad80426a7ad2e
+      internalID: 1789970403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 550
+        width: 515
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da12fd0aa072e54449979feb55b9f229
+      internalID: 1644670210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 434
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c85dcb322d42459b3179442f59b13
+      internalID: -513279554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 434
+        width: 256
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8e40aa3da41040a9024369cb83301
+      internalID: 1811796176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 333
+        width: 256
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249736ca70f5954184a66bd67eb94ce
+      internalID: 452648426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 352
+        width: 256
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad51476b6bd89242a54664830226380
+      internalID: 15422902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Super Princess Peach_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 512
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944349906e6cc14591b8ce590a0fb1e
+      internalID: 1197606575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fondos Super Princess Peach_0: 1305998014
+      Fondos Super Princess Peach_1: 979755339
+      Fondos Super Princess Peach_10: 1987234194
+      Fondos Super Princess Peach_11: 838660675
+      Fondos Super Princess Peach_12: 1780724373
+      Fondos Super Princess Peach_13: 1754770720
+      Fondos Super Princess Peach_14: -992039323
+      Fondos Super Princess Peach_15: 1466156121
+      Fondos Super Princess Peach_16: 1107604505
+      Fondos Super Princess Peach_17: -44212711
+      Fondos Super Princess Peach_18: 1072430602
+      Fondos Super Princess Peach_19: -1201849131
+      Fondos Super Princess Peach_2: -2023729473
+      Fondos Super Princess Peach_20: 736844572
+      Fondos Super Princess Peach_21: 1669526590
+      Fondos Super Princess Peach_22: 1807443391
+      Fondos Super Princess Peach_23: 2103254053
+      Fondos Super Princess Peach_24: 2014218761
+      Fondos Super Princess Peach_25: 1082302853
+      Fondos Super Princess Peach_26: 152808565
+      Fondos Super Princess Peach_27: -166301075
+      Fondos Super Princess Peach_28: 1603729278
+      Fondos Super Princess Peach_29: -227614352
+      Fondos Super Princess Peach_3: 574499280
+      Fondos Super Princess Peach_30: 1286997926
+      Fondos Super Princess Peach_31: 1397349288
+      Fondos Super Princess Peach_32: -1213635776
+      Fondos Super Princess Peach_33: 1838933427
+      Fondos Super Princess Peach_34: 308098067
+      Fondos Super Princess Peach_35: 1789970403
+      Fondos Super Princess Peach_36: 1644670210
+      Fondos Super Princess Peach_37: -513279554
+      Fondos Super Princess Peach_38: 1811796176
+      Fondos Super Princess Peach_39: 452648426
+      Fondos Super Princess Peach_4: 1351232074
+      Fondos Super Princess Peach_40: 15422902
+      Fondos Super Princess Peach_41: 1197606575
+      Fondos Super Princess Peach_5: 82752009
+      Fondos Super Princess Peach_6: 458154566
+      Fondos Super Princess Peach_7: 908842271
+      Fondos Super Princess Peach_8: -1038625588
+      Fondos Super Princess Peach_9: 1060184611
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

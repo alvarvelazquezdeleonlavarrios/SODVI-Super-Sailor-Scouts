@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 57d24e933dfbd35468faa98279c8453b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_0
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2360
+        width: 486
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fdbd04a19d6004b9f62442ee831e0a
+      internalID: -204744810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_1
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2360
+        width: 491
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227289268b0807439c262bc1c5343e4
+      internalID: 833390353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_2
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2360
+        width: 489
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df6114eebd54d4daa5ece783add5b1
+      internalID: 417725762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_3
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2622
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f661ac0fbc50d24e9f1b8929352edc9
+      internalID: 326146304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_4
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2358
+        width: 484
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dec23dd859b4b418d76d71a12a55d0
+      internalID: -1538258767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_5
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 2360
+        width: 486
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacda3bed570a304fb1a2db0bdd15975
+      internalID: -1924307676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_6
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 2360
+        width: 493
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e919031b82ef4d9d24a0843427b53
+      internalID: 1076302875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_7
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 2360
+        width: 490
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee38b0eb8b1854b94d043506c62173
+      internalID: -731869941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_8
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 2360
+        width: 385
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac4aa4ba238f3c4f9027c6cd6d46218
+      internalID: -2053840811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_9
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 2358
+        width: 384
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa77e5baa89fe244ba234e6cddbc496
+      internalID: -1012698537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1589
+        width: 1715
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d6cc3264f91d44aadaeab1dc32428
+      internalID: 2074296616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_11
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 814
+        width: 1236
+        height: 1408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9a447d89e78448bddd6bb5018d29f
+      internalID: 185497990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_12
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 1589
+        width: 1716
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcf919414fabca4d8eabcf8a5a008bc
+      internalID: 1711606271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 916
+        width: 1716
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200d861740187849964c5ab7418ff70
+      internalID: -1325492301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_14
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 916
+        width: 1715
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c5221215977c41b4e063d5dcab9a9
+      internalID: 458024844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 438
+        width: 3146
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15593c7c78ce1e74282e0ac92603d18c
+      internalID: -1437125902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_16
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 182
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86160ce53c3b39428c9f4a19872a1d4
+      internalID: -684300257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_17
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 463
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157bce8d63416946b539f014d96215f
+      internalID: -731000590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_18
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 168
+        width: 522
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44088081dde2fba4a9abd5d87ce7d56e
+      internalID: -453983740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_19
+      rect:
+        serializedVersion: 2
+        x: 4941
+        y: 168
+        width: 589
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eef237a4d3c334a9ba1cba5c27a4b1
+      internalID: -6949832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Diamond Buttons UI_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 157
+        width: 3146
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39421343cc29efe498b2c65d82a0ad24
+      internalID: 2099618390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pink Diamond Buttons UI_0: -204744810
+      Pink Diamond Buttons UI_1: 833390353
+      Pink Diamond Buttons UI_10: 2074296616
+      Pink Diamond Buttons UI_11: 185497990
+      Pink Diamond Buttons UI_12: 1711606271
+      Pink Diamond Buttons UI_13: -1325492301
+      Pink Diamond Buttons UI_14: 458024844
+      Pink Diamond Buttons UI_15: -1437125902
+      Pink Diamond Buttons UI_16: -684300257
+      Pink Diamond Buttons UI_17: -731000590
+      Pink Diamond Buttons UI_18: -453983740
+      Pink Diamond Buttons UI_19: -6949832
+      Pink Diamond Buttons UI_2: 417725762
+      Pink Diamond Buttons UI_20: 2099618390
+      Pink Diamond Buttons UI_3: 326146304
+      Pink Diamond Buttons UI_4: -1538258767
+      Pink Diamond Buttons UI_5: -1924307676
+      Pink Diamond Buttons UI_6: 1076302875
+      Pink Diamond Buttons UI_7: -731869941
+      Pink Diamond Buttons UI_8: -2053840811
+      Pink Diamond Buttons UI_9: -1012698537
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

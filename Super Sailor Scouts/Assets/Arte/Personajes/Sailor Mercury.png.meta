@@ -1,0 +1,3489 @@
+fileFormatVersion: 2
+guid: 638b15083b58de94696fd916ec41dd65
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sailor Mercury_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1202
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221ce9ff952bee4782c4454875fedab
+      internalID: 1755359759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1203
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4593944898254380ccb542f1c571a
+      internalID: 34551755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1203
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3946f0258bb05145842e0a269d00ae5
+      internalID: -1069400343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1203
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e5818c11dae742aa7943f31e60366
+      internalID: -1967483294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1203
+        width: 24
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952012cd22af53e45a8eb9e46926c022
+      internalID: -996648752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1203
+        width: 31
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5fb635ea044d44389ddb520c94b70c
+      internalID: -596315960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1203
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5323cfccd3cb648b5c45b41747e91a
+      internalID: 2106422776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1203
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3024892fc78c6d46a0beef128e9ec91
+      internalID: 338830799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1203
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ede430f7ada74cae3e4b862fb0b3e
+      internalID: 1421108595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1203
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f47c3f9dd4b8ed419f8525ee3fc9362
+      internalID: 1593111884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1203
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b47b61cd19d4c43ba00e9ef7792bb0
+      internalID: 277589651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_11
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1203
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50e4797a716c94ead62518294cb4c5
+      internalID: 757495750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1193
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce27cf0d710b24143a90d35a029c07ec
+      internalID: 691501948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1193
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcebea79c45fc54c9feb8caff4051c1
+      internalID: -1889419483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1191
+        width: 30
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f739ddc8cda4f242b14376ef9c1dde0
+      internalID: -2048340274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1192
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808db7462eac8fc4aa9059189aa78482
+      internalID: 643006241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1192
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d990a286c9973446942fd6508f1c306
+      internalID: -107945169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1087
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82fccab3dcf894a9b31ea9d44aabd8
+      internalID: 181697015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1089
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5f6b33f086e9479c70a5258928be6
+      internalID: -244080629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1090
+        width: 25
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd49d34f30dc42449dfab5267ef4d8d
+      internalID: -44293383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1089
+        width: 28
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04b4504b5e6f343857665b4ec447c4
+      internalID: -708485356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1088
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb54d8f386969a48bed45bdf31eac1c
+      internalID: 1637590784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1088
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2a2c2ac6b59f4a961d417f6249343
+      internalID: 1120761767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1090
+        width: 25
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a71db5a9bfb9354194a623b5d48bf0e
+      internalID: -1913889111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1089
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061ddfa7dc02e34fbb746362db0d6ef
+      internalID: -1461279595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1088
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0550949cef1848814e5d14aaa2d9d
+      internalID: -129909952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 976
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0efab81164b734baf15d45ec051869
+      internalID: 784312540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 976
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211b5ef91f6e994198d38cf893861cd
+      internalID: -785288630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 979
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9ca828d83ea54ebaa1612b69c0ec8
+      internalID: 1092728588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 991
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03c9b1899fff9d49ad26a06bc47c8f0
+      internalID: -501965004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1003
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477eda08d06d5074c9a8d95489bf1b3b
+      internalID: -1891173075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1026
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c594a54cd0aa5f419869b180c8fb9f3
+      internalID: -2049298858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1008
+        width: 89
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c31dd41505a2e428799fcdf6270896
+      internalID: 312792035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1005
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a5dd77a7686d4f9764b5524a48767
+      internalID: -1832224803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 973
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95504dd952652b45a96114c17be4330
+      internalID: -1424861622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_35
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 991
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7710ba7a48e621e4789dc050bea99115
+      internalID: 1986779167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_36
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1007
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97870fb8544bd2144b86558a7421e1c7
+      internalID: 1653062787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 995
+        width: 102
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0a7ecbd88c7b46ad3e973e397b5fc
+      internalID: -348159180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 861
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3bb7b3bb352bc488604af3eaa1c7b6
+      internalID: -165916214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 864
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc56b645722ef4aa7f1dc6d4cae7fe
+      internalID: -1928590459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 862
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bf5f022863ab54f808bd81aa9954a3
+      internalID: -1057951421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 860
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a12895e6fc514aabdb272676e540a
+      internalID: 1921171168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 866
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbf24ff0fdb95b44b6223c286313021
+      internalID: 1504949992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 860
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98279279954f88649b480dbb8ce27d4f
+      internalID: -1214208375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_44
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 860
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a009357fbb234c89ac54a7d0f38bb
+      internalID: 1502281115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 859
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95176e28a49be6245bfe88d40bbaaafa
+      internalID: 1340816654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_46
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 860
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0078f73b42664b44a04280707d7e592
+      internalID: 583176160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 861
+        width: 50
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a2ab3586744e4a88d5201a7e8914e
+      internalID: 1382359794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 860
+        width: 51
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bff9e57ac9f99469c88d72c931207f
+      internalID: 1067144618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 729
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa301d0c20f803f458d2eef6a5df8f3e
+      internalID: 1271241403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 729
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2636a2e70e985a24bb81ea49e32c9de5
+      internalID: 1893431915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_51
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 729
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759acab166ec5d45a596f16583a52cc
+      internalID: 599167111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 728
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b2460009598e4d90b83e631797c2f
+      internalID: -2023727397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_53
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 728
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536bdab139e73714e997dc179e8357da
+      internalID: 1695579837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_54
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 728
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3cbc98901d8004d990bfe39f49792a
+      internalID: -2052000783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_55
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 731
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6537e81c712c1489d6a0c879964040
+      internalID: -1307367876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_56
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 730
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318356fe28f3a24486b0dfa5b0dde59
+      internalID: -1922451309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_57
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 727
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a3429f4ac1a143b0154e7b2a5174c
+      internalID: -332599591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_58
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 729
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac992885d9191e49a1171d702bfa23a
+      internalID: 364105739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_59
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 728
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16c43652596e84eaaeb6b69e8c4ab4
+      internalID: 1983344454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 593
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66db49fd50139b41baf05eed70b7dd9
+      internalID: -1192417391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 593
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e823dbf63b7043a33063dc06c6b49
+      internalID: -1632422714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 595
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd250d59208542a439723dc81ffdf4ef
+      internalID: 473206128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 606
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43b7a8ae499696449e2b3d077c5276e
+      internalID: 595194271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 618
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cfbfe13cf43f04fa3f04cb438c017e
+      internalID: -1748303006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f45aa72a68d4294486b66d925247f32
+      internalID: 597095467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_66
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 612
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f592ae998e394aa84a76d61b96572
+      internalID: -1160001780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_67
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 591
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666acc7777891a840bf7b0374fae8ef9
+      internalID: -315441339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_68
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 589
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0671f580b95a964e8eb6fc30c99eaa2
+      internalID: -2068708608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_69
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 590
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe44ecb606045a74da65000a31efd81e
+      internalID: 325879121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_70
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 591
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cce8714bdd110458cf74ebd72c9539
+      internalID: -1743603789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_71
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 592
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2644f28e51eebc478f0a2edb15b925f
+      internalID: -120267838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_72
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 592
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c8ed859006b04e99c5e3b0df464a8
+      internalID: 813598797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 461
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc41021a2387c940913f74755526877
+      internalID: 1592149454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_74
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 467
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3b0133f4aa774d953b1bf71ee71db
+      internalID: -1220560587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 492
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718d5fdb38c7ae24e88d6010f1fbf836
+      internalID: 885081041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 489
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d32f0761106ac4ab7bbb32c2f51b28
+      internalID: 208850879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 491
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e8b109ff50d548a740f1e9cd70301
+      internalID: 224687735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_78
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 475
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616edade2b32ae4a8a9dcba9da63348
+      internalID: -526933780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_79
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 478
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4647705db2c0c49ba60dea6e3c52f9
+      internalID: 309529173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_80
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 495
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9b5ac3acc807489418012d70f7bcf
+      internalID: -194363255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_81
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 514
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b51ed1daa7e61a4187b6ec08f584b48
+      internalID: -1751016386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_82
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 487
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52efff5883d2234db20f61d99466dff
+      internalID: -318783481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_83
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 479
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b31fa1f22d0fd4d9b1295fd35c4bbf
+      internalID: 650545621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_84
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 475
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e9fd156c9cde42a867af864d220a9
+      internalID: -1785463578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_85
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 474
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1e7554d13c384795b3bff52ec3840
+      internalID: 1617715416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 375
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb313f524c92944f8cd7cd43fcc8482
+      internalID: -2090619946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 381
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01811278189a844889eceff67662cf0
+      internalID: 245791837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_88
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 383
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b007f70887c64998aa71f8a87f0fa
+      internalID: 1967048440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 397
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464e5453b050204295a53ce0826748c
+      internalID: 1075555282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 388
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386d849595183148a8a2738cfdd3890
+      internalID: 591936885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_91
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 361
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6596059692f3d4bad766ed05aff90e
+      internalID: -567851253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_92
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 368
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3052168f768bc5a4c9035f820486ab25
+      internalID: 1470648556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_93
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 391
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78624d26e894ef54d91d9770841a6614
+      internalID: 1955897364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_94
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 393
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a39c58271e4fb40b6a589a1d5b99fb
+      internalID: -350198115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_95
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 394
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3365daeac0044e9b958caf3314f89
+      internalID: 152594662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_96
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 393
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30866ef985d28df4fa2604eab43e03ca
+      internalID: 96126055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 266
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a832ddd7dff942b3589da72b50fb3
+      internalID: 1281116993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_98
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 270
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0bcb6c2b7ac104f92c7fc5c1eb84d8
+      internalID: -1762287618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_99
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 270
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ef9df0b6b5774d889e6919b18348f
+      internalID: -486725712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_100
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 267
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa0541c16069d408218b832773638c
+      internalID: 1076767824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_101
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 268
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95463c51ebf02474aa2aec5df5791b59
+      internalID: 1082374286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_102
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 268
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8670ad4e3e99fb64191ad09d4a1c06f1
+      internalID: 2058318850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 269
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a0d9c7454099478e25b7c24f28afc
+      internalID: 188802406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_104
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 269
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c9df77c772444fb24df28a16fc5c7
+      internalID: -777559898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_105
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 270
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c933116d43e794489e6f457be847c1
+      internalID: -1501807045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_106
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 269
+        width: 30
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436aea94f3baaa349befd906051a5f11
+      internalID: 1551169278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_107
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 269
+        width: 30
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ade588ffc87f49ba7952087a12843
+      internalID: -1525054531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 31
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488d6e2002477744a38e317aa5d8f82
+      internalID: -1483345213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 126
+        width: 30
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742b301e8125e347a390e7dfa2c3260
+      internalID: 1441197589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_110
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 126
+        width: 31
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec1e1d53383e24dadf2f2f41513139
+      internalID: 1946360482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 31
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3bf66cb5a16e643812bc2e1a7fce67
+      internalID: 974733513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 123
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e33f01b4096e43a37cd2046f87db3
+      internalID: 1895575080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_113
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 124
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae14071c03afd2448a1d03f366b2d01c
+      internalID: 214719868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_114
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 133
+        width: 28
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7508a1291de7e489a5f87b0a82eaa9
+      internalID: -820483202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_115
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 133
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e6f0baaa8a87458840c99fb706816
+      internalID: 2095751408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_116
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 131
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d81d5d31af7742a4b259b3ae3cfa0
+      internalID: -319683213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_117
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 131
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059d7100e86005438ca8f58b7f1f7af
+      internalID: -1444919869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_118
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 125
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06539cb32846b2746bb1a1d47adf33ce
+      internalID: -251906693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_119
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 125
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092f6d213202b247a32b6f79bdd299c
+      internalID: -261924944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_120
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 124
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad41789c82332141b0731574e4b7616
+      internalID: 1066874847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_121
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 124
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabcc8651d9034a468535cd1a7166a1d
+      internalID: 607713894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_122
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 127
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9540bf05905b3e642b1de464ed25a473
+      internalID: -2076498552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_123
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 127
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40669db426354cd4fa89bd93aca15644
+      internalID: -1690994825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_124
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 8
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111e3a5fce0b0744b4a9ea7eba7e27c
+      internalID: -1300882005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_125
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b87273fe153443a71eb6c60092456
+      internalID: -1794890869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_126
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 10
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea8b96f2502a04d9b8392b737e3ed4
+      internalID: 174033391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_127
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 10
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff754b102795ce48a6eaae78dce3743
+      internalID: -1794103099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_128
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9335034bcde947afa390d061361f3
+      internalID: 1400669712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_129
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 9
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c442b0adf7eb94e98d34ce11bfcc29
+      internalID: -1595686614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_130
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b66a7574b7047449a2005a7697f562
+      internalID: -1766404875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_131
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 72
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dfeca4f77d01544a5e580db2aff9c9
+      internalID: -115210179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_132
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 61
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a7d8a767ea704a939736542dcabe6
+      internalID: -494081973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_133
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e0fac84c1c7f4fb681ddfece9a28d
+      internalID: 410972309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_134
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823395e4da7c7de4fbe5424927c8b341
+      internalID: 831541428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_135
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b634d07c736a56040915a869f3320b51
+      internalID: -958403209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_136
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 59
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d79104fdd9b44db8a594b8338144e
+      internalID: -1140715849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_137
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 48
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2826ccde610904dbf2c53ac62068a3
+      internalID: -1163299357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_138
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 50
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77705d31635bc4487d578f176ae1cf
+      internalID: -549943040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_139
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19ac0e8f9af304084f3f12606bc4a0
+      internalID: 1256759707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_140
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209cf3be4a28d34e92814a8cb58a06e
+      internalID: 1662760902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_141
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 50
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e548d4ed1311846bd2dfbb0dd9c69e
+      internalID: 1758295729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_142
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb629a9e709e5874e90aabeee31d7361
+      internalID: -490917428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_143
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 39
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c00f1b0d3bdc4eb852a72284494b7
+      internalID: 986440278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_144
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 39
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91397b59b036cc4f84f83aa0990d8eb
+      internalID: 1954647408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_145
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43e8df25fa0324698bd41a07853566
+      internalID: 1289003188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_146
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 29
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9eb081c2b8664896baeaa09e00732
+      internalID: 684169710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_147
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a785f3bb1e517d54ab1ed3ea1a5d903f
+      internalID: -184550136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_148
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49e980678a84c43983d49f07587f4d
+      internalID: -409973322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_149
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28f8f61272cef458c178436eb48a3c
+      internalID: -1923841214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_150
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 18
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5459ccc941b3d418a23df1af07da39
+      internalID: 1670188124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_151
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cabfcee84a954e498dd0a010779f467
+      internalID: -147911712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Mercury_152
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24258d9110944498618311ac59db37
+      internalID: -1477496826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sailor Mercury_0: 1755359759
+      Sailor Mercury_1: 34551755
+      Sailor Mercury_10: 277589651
+      Sailor Mercury_100: 1076767824
+      Sailor Mercury_101: 1082374286
+      Sailor Mercury_102: 2058318850
+      Sailor Mercury_103: 188802406
+      Sailor Mercury_104: -777559898
+      Sailor Mercury_105: -1501807045
+      Sailor Mercury_106: 1551169278
+      Sailor Mercury_107: -1525054531
+      Sailor Mercury_108: -1483345213
+      Sailor Mercury_109: 1441197589
+      Sailor Mercury_11: 757495750
+      Sailor Mercury_110: 1946360482
+      Sailor Mercury_111: 974733513
+      Sailor Mercury_112: 1895575080
+      Sailor Mercury_113: 214719868
+      Sailor Mercury_114: -820483202
+      Sailor Mercury_115: 2095751408
+      Sailor Mercury_116: -319683213
+      Sailor Mercury_117: -1444919869
+      Sailor Mercury_118: -251906693
+      Sailor Mercury_119: -261924944
+      Sailor Mercury_12: 691501948
+      Sailor Mercury_120: 1066874847
+      Sailor Mercury_121: 607713894
+      Sailor Mercury_122: -2076498552
+      Sailor Mercury_123: -1690994825
+      Sailor Mercury_124: -1300882005
+      Sailor Mercury_125: -1794890869
+      Sailor Mercury_126: 174033391
+      Sailor Mercury_127: -1794103099
+      Sailor Mercury_128: 1400669712
+      Sailor Mercury_129: -1595686614
+      Sailor Mercury_13: -1889419483
+      Sailor Mercury_130: -1766404875
+      Sailor Mercury_131: -115210179
+      Sailor Mercury_132: -494081973
+      Sailor Mercury_133: 410972309
+      Sailor Mercury_134: 831541428
+      Sailor Mercury_135: -958403209
+      Sailor Mercury_136: -1140715849
+      Sailor Mercury_137: -1163299357
+      Sailor Mercury_138: -549943040
+      Sailor Mercury_139: 1256759707
+      Sailor Mercury_14: -2048340274
+      Sailor Mercury_140: 1662760902
+      Sailor Mercury_141: 1758295729
+      Sailor Mercury_142: -490917428
+      Sailor Mercury_143: 986440278
+      Sailor Mercury_144: 1954647408
+      Sailor Mercury_145: 1289003188
+      Sailor Mercury_146: 684169710
+      Sailor Mercury_147: -184550136
+      Sailor Mercury_148: -409973322
+      Sailor Mercury_149: -1923841214
+      Sailor Mercury_15: 643006241
+      Sailor Mercury_150: 1670188124
+      Sailor Mercury_151: -147911712
+      Sailor Mercury_152: -1477496826
+      Sailor Mercury_16: -107945169
+      Sailor Mercury_17: 181697015
+      Sailor Mercury_18: -244080629
+      Sailor Mercury_19: -44293383
+      Sailor Mercury_2: -1069400343
+      Sailor Mercury_20: -708485356
+      Sailor Mercury_21: 1637590784
+      Sailor Mercury_22: 1120761767
+      Sailor Mercury_23: -1913889111
+      Sailor Mercury_24: -1461279595
+      Sailor Mercury_25: -129909952
+      Sailor Mercury_26: 784312540
+      Sailor Mercury_27: -785288630
+      Sailor Mercury_28: 1092728588
+      Sailor Mercury_29: -501965004
+      Sailor Mercury_3: -1967483294
+      Sailor Mercury_30: -1891173075
+      Sailor Mercury_31: -2049298858
+      Sailor Mercury_32: 312792035
+      Sailor Mercury_33: -1832224803
+      Sailor Mercury_34: -1424861622
+      Sailor Mercury_35: 1986779167
+      Sailor Mercury_36: 1653062787
+      Sailor Mercury_37: -348159180
+      Sailor Mercury_38: -165916214
+      Sailor Mercury_39: -1928590459
+      Sailor Mercury_4: -996648752
+      Sailor Mercury_40: -1057951421
+      Sailor Mercury_41: 1921171168
+      Sailor Mercury_42: 1504949992
+      Sailor Mercury_43: -1214208375
+      Sailor Mercury_44: 1502281115
+      Sailor Mercury_45: 1340816654
+      Sailor Mercury_46: 583176160
+      Sailor Mercury_47: 1382359794
+      Sailor Mercury_48: 1067144618
+      Sailor Mercury_49: 1271241403
+      Sailor Mercury_5: -596315960
+      Sailor Mercury_50: 1893431915
+      Sailor Mercury_51: 599167111
+      Sailor Mercury_52: -2023727397
+      Sailor Mercury_53: 1695579837
+      Sailor Mercury_54: -2052000783
+      Sailor Mercury_55: -1307367876
+      Sailor Mercury_56: -1922451309
+      Sailor Mercury_57: -332599591
+      Sailor Mercury_58: 364105739
+      Sailor Mercury_59: 1983344454
+      Sailor Mercury_6: 2106422776
+      Sailor Mercury_60: -1192417391
+      Sailor Mercury_61: -1632422714
+      Sailor Mercury_62: 473206128
+      Sailor Mercury_63: 595194271
+      Sailor Mercury_64: -1748303006
+      Sailor Mercury_65: 597095467
+      Sailor Mercury_66: -1160001780
+      Sailor Mercury_67: -315441339
+      Sailor Mercury_68: -2068708608
+      Sailor Mercury_69: 325879121
+      Sailor Mercury_7: 338830799
+      Sailor Mercury_70: -1743603789
+      Sailor Mercury_71: -120267838
+      Sailor Mercury_72: 813598797
+      Sailor Mercury_73: 1592149454
+      Sailor Mercury_74: -1220560587
+      Sailor Mercury_75: 885081041
+      Sailor Mercury_76: 208850879
+      Sailor Mercury_77: 224687735
+      Sailor Mercury_78: -526933780
+      Sailor Mercury_79: 309529173
+      Sailor Mercury_8: 1421108595
+      Sailor Mercury_80: -194363255
+      Sailor Mercury_81: -1751016386
+      Sailor Mercury_82: -318783481
+      Sailor Mercury_83: 650545621
+      Sailor Mercury_84: -1785463578
+      Sailor Mercury_85: 1617715416
+      Sailor Mercury_86: -2090619946
+      Sailor Mercury_87: 245791837
+      Sailor Mercury_88: 1967048440
+      Sailor Mercury_89: 1075555282
+      Sailor Mercury_9: 1593111884
+      Sailor Mercury_90: 591936885
+      Sailor Mercury_91: -567851253
+      Sailor Mercury_92: 1470648556
+      Sailor Mercury_93: 1955897364
+      Sailor Mercury_94: -350198115
+      Sailor Mercury_95: 152594662
+      Sailor Mercury_96: 96126055
+      Sailor Mercury_97: 1281116993
+      Sailor Mercury_98: -1762287618
+      Sailor Mercury_99: -486725712
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

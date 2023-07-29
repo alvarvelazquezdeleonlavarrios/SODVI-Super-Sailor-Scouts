@@ -1,0 +1,3775 @@
+fileFormatVersion: 2
+guid: 13acd5a209036084fb467143fd1ee963
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sailor Jupiter_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1208
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d24609124b067448ed568d68c251ad
+      internalID: -1584172752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1211
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130edb2ff7865c4c8171c14593078b0
+      internalID: -1498631916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1211
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2490ca6fa081bce4692e9261132be804
+      internalID: 1517973247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1211
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d62a7a1ce64ba14f99a64c87f2436a8
+      internalID: -2047161688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1211
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bea9798f6a5f34f96c5ef688a164c5
+      internalID: 551535990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1211
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf973d69be2efa4fb61ed818305bd79
+      internalID: -1726088354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1211
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb642ba7eedb6994abbb4193e5106656
+      internalID: 28396062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1211
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aedbe78b5e243148a0f904757e57946
+      internalID: -1058160870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1211
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b80ee55113c34aadec28a1ebc4488
+      internalID: 634212744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1211
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aec5a2c010203429aa51cba5f3c264
+      internalID: 14412758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1211
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8339e97b4f964d95f4fe82ba46648
+      internalID: 1637691888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1211
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbac74dce0285db4c9e9becf25231aff
+      internalID: 304867612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1211
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb465758818be4d80d15cec096067f
+      internalID: -1718809617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1207
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e6e2d29fb5fe4391f2904ce919c2f
+      internalID: 838451105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1207
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0b3d47e5bcab47bae8b38e9641e69
+      internalID: 1364265272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_15
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1202
+        width: 30
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320aa2e92de5d44d8383a0d0906d11d
+      internalID: -1391571590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_16
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1202
+        width: 30
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef076b8ae7f42418aeb67952427e72
+      internalID: -351607233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1092
+        width: 35
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682a93dc20318f4f9c10a5ecfca7f03
+      internalID: 1351509134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1094
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7696267324d3ddf4a9e6ac4ec9bad869
+      internalID: 1826883247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1096
+        width: 30
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d48f86321fe9d428bff5ec2b329acc
+      internalID: 1030629134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1097
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554e80d971b3ace40a7f8f8726d56fd7
+      internalID: 1274255540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1095
+        width: 32
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48359056e83f3941a4e2e326c93e657
+      internalID: 710896582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1096
+        width: 29
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e67eb638399fc48b6d9a263d127907
+      internalID: -838694555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1097
+        width: 26
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d633d14f33e048be1367b9c88c676
+      internalID: -989882118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1094
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccfafced11f50a458c2f3627e24c0a3
+      internalID: 781062735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_25
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1098
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76820b732d3afa14c8022fe05cddc47f
+      internalID: -1775774272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1095
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c120dac036e3914bae5d271fb5b894e
+      internalID: 416562966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1095
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f86fa79fd5454f8b123e54ce68b4f
+      internalID: -115066296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_28
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1095
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe11322034425242af5f6075d2a3d88
+      internalID: 149973878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_29
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1097
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6553b96ba740a64ea627a526d86bc92
+      internalID: 1303116484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_30
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1096
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25cab0e8d693b74e88811f8c76eb178
+      internalID: -1105361471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_31
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1096
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6425c0573ab7042955673575965e9a
+      internalID: 1690215346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_32
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1093
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183ed92b5aaa36a438a323836bc4a328
+      internalID: -1162483527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 978
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e78f2c050ee176409874e337029a18f
+      internalID: 435574266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 978
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc765e8b97730479ed4cfba880a88f
+      internalID: 569904268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 977
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b62a318556fa145b9f7ab6764e597e
+      internalID: 942362268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 978
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77fcde7fa3041459fce432aafc2d07
+      internalID: -584776229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 977
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3f9a5fa8c3854082a44fd8fd5b83c
+      internalID: 958146708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 978
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05454d0bfcae3d4eb2e373bf79a3e63
+      internalID: 1152943469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 980
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cce4cd18c9227459e7449ff90556d8
+      internalID: 392005972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_40
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 982
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fcad6e446ee65449b0d656cf5106ae
+      internalID: -544706837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_41
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 980
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe252b9970efc643be935ddd15945d9
+      internalID: 988158431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_42
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 980
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772969b8445add4d92fbdf75daf2bd6
+      internalID: 1475880118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 860
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3165faffcebbe3469feed6e12dd5cfe
+      internalID: -1986119629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 861
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a876f74053f6abd499db3e448ad274a2
+      internalID: -1629864446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 861
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969fb8901b6f3d4ea0c9e400027f770
+      internalID: -1902783673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 873
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ae9c390d000964fa995f8993b2d455
+      internalID: 641087267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 879
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a367a13a63b1b29438f30a51b5739c64
+      internalID: 1659333584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 913
+        width: 110
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a172016847794ab30c2aed1f11be6
+      internalID: -905912179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 875
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebaeefc3685cbe42b44c5aae9cf9c91
+      internalID: 1921057026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 877
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5ded957ccf8d545aa0d820442c0fa2
+      internalID: -838257842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_51
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 863
+        width: 35
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848a01073fe67d4888dfd562a8a4103
+      internalID: 1030017242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 866
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661738008453b94fbe35b5b90b32cec
+      internalID: -1124240862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_53
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 891
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14348771daee1fc49bcdc9ccd61a987d
+      internalID: -1204142488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_54
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 875
+        width: 101
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1682079ef85e84f99edf25eabe3ba2
+      internalID: -1275778867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 745
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116049a478b9eb84fbd1818da7ee4198
+      internalID: 181558835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 745
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bccc0851249f444be381c459d810c4
+      internalID: 72150020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 745
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea060b3e567ee949afe47878870e988
+      internalID: 2070444492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 744
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5abfdd15d41241a6a8cff3bd8593f
+      internalID: 1822223965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 744
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa3185df9f8c44686dfee937639ace
+      internalID: 1318898814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_60
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 744
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786ccc33343f47469f282b8f18747ac
+      internalID: 1758478016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_61
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 744
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80375af6300bec14c83dddb89c6cd734
+      internalID: -752018866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_62
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 744
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a22217bac2f50b488a598ede8f77824
+      internalID: 396405740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_63
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 744
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5a8f06f36be34c9be940d984f8f76
+      internalID: -1711626152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 744
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c6b318ffc1b4b4f9f4aea6b779918e
+      internalID: 1982377154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_65
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 744
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05097469a1a4a8a4f905d6b2b563210e
+      internalID: 668394402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_66
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 745
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae385c525b9204d4f9b1564868a77018
+      internalID: -1954656670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 607
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518673fa57d51b04b948b2807b628def
+      internalID: 1573196788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 613
+        width: 36
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90113e6328de6d44a8b06bc77a23d686
+      internalID: -948368598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 622
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d9cae510eed74eb61ea2103bb4659
+      internalID: -2096019897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_70
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 633
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea4dae4d409d04f8a74e3e1ab0221a
+      internalID: 1107472509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 639
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1eb8ef15b0b8442af9d14f6b5b52e2
+      internalID: 1742100120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 639
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a52d5e6ad0afc4087baa3c9c332d82
+      internalID: 979452643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_73
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 633
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471e6be80750f943a802577cd4b073f
+      internalID: -163215567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_74
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 622
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675837c4992a994eba4876ca2d62abc
+      internalID: 455264184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 613
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc8bb0cf413214bbdbdcd63780644f
+      internalID: 1590471066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 607
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5375f48522ee34ea428166298a75db
+      internalID: -445300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_77
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 616
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de47ce1dc724214a80a8ad6619f2b4f
+      internalID: -1483900500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 636
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a307bb3c9d09468a18880598f2b8b
+      internalID: 328756908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_79
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 647
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c97cdd528aaeb44a4e30e40e628bf1
+      internalID: -527980299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_80
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 652
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dbcd0862182304f9f8c30a33216c1f
+      internalID: 1216791774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_81
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 625
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd066543b1c7ed4cb6382839b2f1e1e
+      internalID: 1178426318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_82
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 617
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3094a77370a5043b3a5adb3f75df1d
+      internalID: 1881285073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 501
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49ce64bfcd072d42ac156bf04772e81
+      internalID: 303082790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 504
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae6ece2d9255449bc6aa48e8cc97d7
+      internalID: -1018007551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 508
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00a53c5a586d2489a50687e3ef838b
+      internalID: -1509928311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 517
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacfdacaa330643449fd0b664d3518a1
+      internalID: 1025166312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 501
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed4f1ddecd39645ab2dd7772bcf9c2
+      internalID: -2087016410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_88
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 524
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b822b90743abc4e90cce8d5f892d7b
+      internalID: 1961333209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_89
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 517
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0d55ac29f9d14da891abe122506d2
+      internalID: -1633317580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_90
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 523
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99178c2b78193584dbd5d140f85e2e75
+      internalID: -738691020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_91
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 488
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408e9ebfc64fb2499c968724fcee0dc
+      internalID: -1131111849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea926fec13c292d4c91275d350eb96cc
+      internalID: -1676630530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_93
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 477
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90fd5b2f4ef02a4785787d73f2a71a3
+      internalID: 232167192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_94
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 475
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62e7cb54f5c094ea33cd1db6cd6c96
+      internalID: -642154295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_95
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 475
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4040825b1f294478bef38ad09db50d
+      internalID: 672910461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_96
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf3ffe4abe4ea4482de15828ec750d
+      internalID: 787620856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_97
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 475
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc238c77481d6c40b6f34debfe7746f
+      internalID: -1429787043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_98
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 414
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1d5b7c0e051e458c93dd42cb80c76
+      internalID: 1207359897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_99
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 464
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6c659dd3614d4da36fa97d6b423fc
+      internalID: -665789017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_100
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 466
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb044e35927b3547818135ec03b5dfd
+      internalID: -38433130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_101
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09146592cdd0d28459723e0f7c15a45d
+      internalID: 547082418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_102
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 466
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34940d4de38821941906503fc7575fad
+      internalID: -1739606408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_103
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 466
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22a600f2772169449a452756aefb421
+      internalID: -38599057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 390
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff96e05f4af20429164149c21e066b
+      internalID: 1726362193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_105
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 388
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36638adadfb86b945a7be07fa51c9677
+      internalID: 35549553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_106
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 391
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451b8e09cd61a6e44b0368090cde2d45
+      internalID: 17510236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_107
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 455
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2771d1eb8e196e44785b281f1679c99e
+      internalID: 763122424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_108
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 455
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8ee48b4f056c49b36bba8fe00c4b6
+      internalID: -1145244311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_109
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 455
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21f0956c4f056498a840b6c7f29593
+      internalID: 866395833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_110
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 455
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac6c12e2b0a794287f2011ca682188
+      internalID: 116245249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 388
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ea6726419ce74cb2c8cd51a24debb
+      internalID: -950596196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 386
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23059d0544190904ba76c8396bb970db
+      internalID: 1797372175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_113
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 391
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab367a8fb8ed94b82b9e0d0e64f309
+      internalID: -209639561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_114
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 445
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c515e69f0d5ce40b42f7ccbe680a4a
+      internalID: -1819085485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_115
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 445
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7752c74e355240bd32d5bb1e1ccc4
+      internalID: 1012970733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_116
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 445
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b4cbf19f6c7a46814756d262d34c2
+      internalID: -1627718194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_117
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 445
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d753bb8cab019f0499dfbd209a8788c4
+      internalID: -738902993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_118
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 391
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15aa8d6cd2fd8f4197f5cfdc9217a6f
+      internalID: -1480949332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 434
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd428cd8ccb4cc43a138ac97eb48a28
+      internalID: -345965043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_120
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 434
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ee7d3b3dba25142a1bc83bd30123e6
+      internalID: 1954750376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_121
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e288b9486489414b971eb6d6a288a10
+      internalID: -1642946995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_122
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 393
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2549fe5115ae434a98e68a168c82cfd
+      internalID: -976605930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_123
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 392
+        width: 47
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368efed89de8ae143ab4bbb38cbe92ee
+      internalID: -1085447063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_124
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 265
+        width: 35
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff7eedd80b0692428621a3dec31558b
+      internalID: 665547108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 274
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0153ab96e474a408011b173a1f67f1
+      internalID: -948935972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_126
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 269
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff8238ffdf9e3408ef898165f3cb8a
+      internalID: -922453261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 268
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc42e30f9efc19b43a2df981c01a7634
+      internalID: 1524900299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_128
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 270
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803300d4808e6934e932595ba06abd82
+      internalID: -1158765204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_129
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400f88a5ea11cf468c1158ad026fb1b
+      internalID: 789230573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_130
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 268
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e18b4fb166ffa4582fc52f68fc5d71
+      internalID: 171820128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 268
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485ab6afdd234d499153e503a8c8855
+      internalID: -1776162450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_132
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 268
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829ec3975b3b1f44bc5af14e8dfcb4b
+      internalID: 570661728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_133
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 268
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d5775bfab452459151d59428e180c
+      internalID: -1296850450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_134
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 268
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398c58dc9ee67d4d8f1e65284291089
+      internalID: -1091931968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_135
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 303
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58df37fac118ab45821822aab3ba630
+      internalID: -887306370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_136
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 307
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39910d13e9250488bb2d94b69ef1a0
+      internalID: -898283000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 270
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5bd84cbfdac2f46b9c34c8131b4f83
+      internalID: 1660947405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 137
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b16466534fd55545b3b62b58a4c9b7c
+      internalID: 1009434152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b6352aa512ac48bfb895f6e70e998
+      internalID: -1376735471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_140
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 142
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83749fa6789820345ac23b0540d24ba2
+      internalID: 841053562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_141
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 146
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8807d28c1786f9419a60b262915da4e
+      internalID: -2107851259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_142
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 140
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f57602e0ecdfac4780e67fd0a7c8c44
+      internalID: 1564723304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_143
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 138
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9efd24065d4c44e90b7d8893eb1eab
+      internalID: 2118840684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 136
+        width: 35
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a018d0aae3df2469c09c21d9b1883f
+      internalID: -407024706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_145
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 156
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d368b20ca64275418d90e06a68febd2
+      internalID: -1516947656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_146
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 174
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57920af516c560f45b7220bda9ac5f7e
+      internalID: -1817103557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_147
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 163
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b0d350fbdeeec44a3294e4f0767f27
+      internalID: -53675437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_148
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 146
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb16baa0fcb43441b0801be79bd9cef
+      internalID: -1659141508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_149
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 147
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f749f6a937dfe4a83cfa8d56aaef2c
+      internalID: -463464886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_150
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 147
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9284711591c54b82c0437b086473f
+      internalID: -144694920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_151
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 147
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e30b6907f718f4db8693a76fec003d
+      internalID: -639864297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4dd958559660645b1b679b61370285
+      internalID: -2028098028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_153
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c3a8ea7c7bfe48a3459e678ced82e
+      internalID: -2134970187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00878979aed2e4ab1507b32dfd45d9
+      internalID: 1054864129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f631e060a80c42ab8255f7a7bf154
+      internalID: 1828176664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_156
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 35
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98ef050caaa304480a9f2771a0c9bf
+      internalID: -1969054431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_157
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 35
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fda6d9f55d1e5a45988b4483de1fd29
+      internalID: -419876831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_158
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 35
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce58f61ceb91c41b228eb4bbb3bd83
+      internalID: -1229835686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_159
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c7b0e80c803d24d8f252760b41c1f2
+      internalID: 1532686575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_160
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d97b931b5cc6e14290d50a64dd9ff74
+      internalID: 803078594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_161
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 6
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b905bfd51ebe4fa11d0289bac2517
+      internalID: 1753655189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_162
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 35
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e7dd6926ed9041856210fc982a3a6
+      internalID: 554342577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_163
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 14
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c20963c0c872b4f9ad2f42ce53bac2
+      internalID: -883365126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_164
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 13
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd2cf521b2d1d4f9f58d4164500df6
+      internalID: 1893602393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Jupiter_165
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 31
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879d7a5137267b4a8f850f6655c7aa9
+      internalID: -1829233717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sailor Jupiter_0: -1584172752
+      Sailor Jupiter_1: -1498631916
+      Sailor Jupiter_10: 1637691888
+      Sailor Jupiter_100: -38433130
+      Sailor Jupiter_101: 547082418
+      Sailor Jupiter_102: -1739606408
+      Sailor Jupiter_103: -38599057
+      Sailor Jupiter_104: 1726362193
+      Sailor Jupiter_105: 35549553
+      Sailor Jupiter_106: 17510236
+      Sailor Jupiter_107: 763122424
+      Sailor Jupiter_108: -1145244311
+      Sailor Jupiter_109: 866395833
+      Sailor Jupiter_11: 304867612
+      Sailor Jupiter_110: 116245249
+      Sailor Jupiter_111: -950596196
+      Sailor Jupiter_112: 1797372175
+      Sailor Jupiter_113: -209639561
+      Sailor Jupiter_114: -1819085485
+      Sailor Jupiter_115: 1012970733
+      Sailor Jupiter_116: -1627718194
+      Sailor Jupiter_117: -738902993
+      Sailor Jupiter_118: -1480949332
+      Sailor Jupiter_119: -345965043
+      Sailor Jupiter_12: -1718809617
+      Sailor Jupiter_120: 1954750376
+      Sailor Jupiter_121: -1642946995
+      Sailor Jupiter_122: -976605930
+      Sailor Jupiter_123: -1085447063
+      Sailor Jupiter_124: 665547108
+      Sailor Jupiter_125: -948935972
+      Sailor Jupiter_126: -922453261
+      Sailor Jupiter_127: 1524900299
+      Sailor Jupiter_128: -1158765204
+      Sailor Jupiter_129: 789230573
+      Sailor Jupiter_13: 838451105
+      Sailor Jupiter_130: 171820128
+      Sailor Jupiter_131: -1776162450
+      Sailor Jupiter_132: 570661728
+      Sailor Jupiter_133: -1296850450
+      Sailor Jupiter_134: -1091931968
+      Sailor Jupiter_135: -887306370
+      Sailor Jupiter_136: -898283000
+      Sailor Jupiter_137: 1660947405
+      Sailor Jupiter_138: 1009434152
+      Sailor Jupiter_139: -1376735471
+      Sailor Jupiter_14: 1364265272
+      Sailor Jupiter_140: 841053562
+      Sailor Jupiter_141: -2107851259
+      Sailor Jupiter_142: 1564723304
+      Sailor Jupiter_143: 2118840684
+      Sailor Jupiter_144: -407024706
+      Sailor Jupiter_145: -1516947656
+      Sailor Jupiter_146: -1817103557
+      Sailor Jupiter_147: -53675437
+      Sailor Jupiter_148: -1659141508
+      Sailor Jupiter_149: -463464886
+      Sailor Jupiter_15: -1391571590
+      Sailor Jupiter_150: -144694920
+      Sailor Jupiter_151: -639864297
+      Sailor Jupiter_152: -2028098028
+      Sailor Jupiter_153: -2134970187
+      Sailor Jupiter_154: 1054864129
+      Sailor Jupiter_155: 1828176664
+      Sailor Jupiter_156: -1969054431
+      Sailor Jupiter_157: -419876831
+      Sailor Jupiter_158: -1229835686
+      Sailor Jupiter_159: 1532686575
+      Sailor Jupiter_16: -351607233
+      Sailor Jupiter_160: 803078594
+      Sailor Jupiter_161: 1753655189
+      Sailor Jupiter_162: 554342577
+      Sailor Jupiter_163: -883365126
+      Sailor Jupiter_164: 1893602393
+      Sailor Jupiter_165: -1829233717
+      Sailor Jupiter_17: 1351509134
+      Sailor Jupiter_18: 1826883247
+      Sailor Jupiter_19: 1030629134
+      Sailor Jupiter_2: 1517973247
+      Sailor Jupiter_20: 1274255540
+      Sailor Jupiter_21: 710896582
+      Sailor Jupiter_22: -838694555
+      Sailor Jupiter_23: -989882118
+      Sailor Jupiter_24: 781062735
+      Sailor Jupiter_25: -1775774272
+      Sailor Jupiter_26: 416562966
+      Sailor Jupiter_27: -115066296
+      Sailor Jupiter_28: 149973878
+      Sailor Jupiter_29: 1303116484
+      Sailor Jupiter_3: -2047161688
+      Sailor Jupiter_30: -1105361471
+      Sailor Jupiter_31: 1690215346
+      Sailor Jupiter_32: -1162483527
+      Sailor Jupiter_33: 435574266
+      Sailor Jupiter_34: 569904268
+      Sailor Jupiter_35: 942362268
+      Sailor Jupiter_36: -584776229
+      Sailor Jupiter_37: 958146708
+      Sailor Jupiter_38: 1152943469
+      Sailor Jupiter_39: 392005972
+      Sailor Jupiter_4: 551535990
+      Sailor Jupiter_40: -544706837
+      Sailor Jupiter_41: 988158431
+      Sailor Jupiter_42: 1475880118
+      Sailor Jupiter_43: -1986119629
+      Sailor Jupiter_44: -1629864446
+      Sailor Jupiter_45: -1902783673
+      Sailor Jupiter_46: 641087267
+      Sailor Jupiter_47: 1659333584
+      Sailor Jupiter_48: -905912179
+      Sailor Jupiter_49: 1921057026
+      Sailor Jupiter_5: -1726088354
+      Sailor Jupiter_50: -838257842
+      Sailor Jupiter_51: 1030017242
+      Sailor Jupiter_52: -1124240862
+      Sailor Jupiter_53: -1204142488
+      Sailor Jupiter_54: -1275778867
+      Sailor Jupiter_55: 181558835
+      Sailor Jupiter_56: 72150020
+      Sailor Jupiter_57: 2070444492
+      Sailor Jupiter_58: 1822223965
+      Sailor Jupiter_59: 1318898814
+      Sailor Jupiter_6: 28396062
+      Sailor Jupiter_60: 1758478016
+      Sailor Jupiter_61: -752018866
+      Sailor Jupiter_62: 396405740
+      Sailor Jupiter_63: -1711626152
+      Sailor Jupiter_64: 1982377154
+      Sailor Jupiter_65: 668394402
+      Sailor Jupiter_66: -1954656670
+      Sailor Jupiter_67: 1573196788
+      Sailor Jupiter_68: -948368598
+      Sailor Jupiter_69: -2096019897
+      Sailor Jupiter_7: -1058160870
+      Sailor Jupiter_70: 1107472509
+      Sailor Jupiter_71: 1742100120
+      Sailor Jupiter_72: 979452643
+      Sailor Jupiter_73: -163215567
+      Sailor Jupiter_74: 455264184
+      Sailor Jupiter_75: 1590471066
+      Sailor Jupiter_76: -445300482
+      Sailor Jupiter_77: -1483900500
+      Sailor Jupiter_78: 328756908
+      Sailor Jupiter_79: -527980299
+      Sailor Jupiter_8: 634212744
+      Sailor Jupiter_80: 1216791774
+      Sailor Jupiter_81: 1178426318
+      Sailor Jupiter_82: 1881285073
+      Sailor Jupiter_83: 303082790
+      Sailor Jupiter_84: -1018007551
+      Sailor Jupiter_85: -1509928311
+      Sailor Jupiter_86: 1025166312
+      Sailor Jupiter_87: -2087016410
+      Sailor Jupiter_88: 1961333209
+      Sailor Jupiter_89: -1633317580
+      Sailor Jupiter_9: 14412758
+      Sailor Jupiter_90: -738691020
+      Sailor Jupiter_91: -1131111849
+      Sailor Jupiter_92: -1676630530
+      Sailor Jupiter_93: 232167192
+      Sailor Jupiter_94: -642154295
+      Sailor Jupiter_95: 672910461
+      Sailor Jupiter_96: 787620856
+      Sailor Jupiter_97: -1429787043
+      Sailor Jupiter_98: 1207359897
+      Sailor Jupiter_99: -665789017
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

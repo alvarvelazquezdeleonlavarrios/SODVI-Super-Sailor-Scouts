@@ -1,0 +1,4369 @@
+fileFormatVersion: 2
+guid: b3e47b68fd61cb64383dbcc464ce56e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sailor Venus_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1749
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0c410d412c6d4192bcfb6323bf824
+      internalID: -1817682342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1751
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a9846702fb8c428f540b11d9bb0f5
+      internalID: 1663679970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1751
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea7538c6373a3245a610a9842b04167
+      internalID: 1796661889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1751
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da074aa67511cca45ab2574e606b39df
+      internalID: 1930056769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1751
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2fa318a979a14488d3de1bd8c014a
+      internalID: -1904771477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1751
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e561e6976f4fcb45aa641effb6bfe97
+      internalID: 58770865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1751
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18176ee38db673747bd2d7c8d4ca1ee9
+      internalID: 2121916899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1751
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415083feea115444f99d0fdee0530b14
+      internalID: -264936809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1751
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68618039546b024fa70424c164a5d01
+      internalID: -525097251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1751
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05069e691e61cea47b34f212620dad74
+      internalID: 1625695140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1751
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f5de2f4ce7814d97d840da21b4a5f
+      internalID: 1940907744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1751
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a8b65ae0771247bf093c3cea87caf
+      internalID: 738298823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1751
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998587c9a94e934daff518806649559
+      internalID: -74585863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1747
+        width: 38
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c92a2b7048d5c4abc3f5c74b2e5e2b
+      internalID: -1417546770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1747
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481eb819e058bdb4da4c61fc2b394fbd
+      internalID: 1449701985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1747
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727408040c4e3f549aefd6703c2664e6
+      internalID: -333352547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1748
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6700de6135029d4c8532fe13ee8fb0e
+      internalID: 1068765378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1748
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675d54bd376fa4439204c53a46327f5
+      internalID: 372767451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1634
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac88bd6aa00604449939f2c26b32c35
+      internalID: -1611902880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1637
+        width: 32
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf49018898c91a478eb5b7ad82b3142
+      internalID: -1294175897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1639
+        width: 29
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82280f8a628ca4ab7dbe7af64aa136
+      internalID: 314129289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1637
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99fe1fc6b5cc14488eda19c810efbdc
+      internalID: -717403241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1637
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84014e9278299a447856ec6ef0cbab3e
+      internalID: 185221915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1636
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abdf327730cf894b897c99e6ed30a94
+      internalID: 1810775577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1637
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5bba1045308c45b55f7e76dcea48e
+      internalID: 1821702041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1636
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609bb48c7d1c84941893e5eda2f4d19e
+      internalID: 735300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1637
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ca710e7fe60f49aeaf26f89b076d1
+      internalID: -2046436423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1632
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158cb8a76dbbde4cb69de7e50f9d5df
+      internalID: -758664757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1633
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246dfb60893f0e478fb42b5ff97e3d4
+      internalID: -227399957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1633
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821eca898b564744aa1b8c0d09b228d
+      internalID: 1954018617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_30
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1631
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051373fe24be9a48b22d67df60ca3c4
+      internalID: 90742034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1631
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886eae82698199540815e383668b1bc2
+      internalID: -2073084216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1527
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ba4e868e801e418193a724b02da05
+      internalID: 1480306351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1526
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686c21b14ff94a42b35ce6177e284c4
+      internalID: -851408540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1525
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b1b89c9e8f90a46b470186aefe4664
+      internalID: -720897703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1524
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede41f004bf8d754a9b3b74e370f68a4
+      internalID: 874202595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1531
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92bedb640a3fc428031fa6efab7fe8
+      internalID: 829541599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1525
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b3f5350912564f90903ad0ddbb7c6
+      internalID: 1124901639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1531
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1c20cdf8925b42bd949b06ba1a776
+      internalID: -2055825410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1531
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b671c08dc5b8dd048b1fa92a89299bba
+      internalID: -596649093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_40
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1530
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f974788db5bae4c850c096d998909c
+      internalID: 667589432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_41
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1529
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a01f7416797f4a8372135169bd3d3
+      internalID: -1707673064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1525
+        width: 52
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04446955be751a44a00e22cbc66e484
+      internalID: -1103432605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1409
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517b688224ef744fb6b3920435fba15
+      internalID: 630905271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1410
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4089d6216da94896d29ce290186c5
+      internalID: 1577948415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1409
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3436a978fc872894d851557e69d2a4df
+      internalID: -573919529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1418
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba717da5819c80a4c8a7807d213ba329
+      internalID: 1462684553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1432
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6fdc2a9c082aa419ce217c4be3e168
+      internalID: -1589491512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1446
+        width: 111
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40cdda2626e3a45945cd6f85ed52a8
+      internalID: -375099806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_49
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1431
+        width: 101
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162486feb1451c46be06533a68c21ec
+      internalID: 1076366706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1434
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f18caf81a6eb540acd6a1904a6685a
+      internalID: -1144390480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_51
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1407
+        width: 33
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d8606016e09549bf9fb24eeead125
+      internalID: -1715886732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1411
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d9203f867ec4644930d743128a8fdd
+      internalID: 48625108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_53
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1424
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43793726f577cf4497f52fbd5796d59
+      internalID: -1745101188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_54
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1402
+        width: 125
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38e168796eb235418b741f3a15082b0
+      internalID: 1800516794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1285
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee643b7ddb4b3414699e454b3b2a01c3
+      internalID: 1058486614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1285
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96b4e57a17e46468b5d69da7a31d00
+      internalID: -1614816715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1286
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9de078401ac8e438bf9fab99e83cf8
+      internalID: 535622571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_58
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1286
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3703dc74270424aadb88de2858d705
+      internalID: -1292168453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1286
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8562efb5043514419fc8999dc9e32da
+      internalID: -2012654278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1287
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea74ca9b8888a64baac387a1eb1e20a
+      internalID: 611561891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_61
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1286
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7ffecda2125464fbcc9d3d4ee7659f
+      internalID: -336972128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1286
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381a105ae9ac6945aa156528c6ca010
+      internalID: -1065239548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_63
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1285
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5348517f65790d243b45a4e7a015bf47
+      internalID: -846445214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_64
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1286
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eff7e493f92b54ba244a05884b3cd3
+      internalID: 532382229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_65
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1241
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eba8b4731f68e4ca91fdde9c5dbbec
+      internalID: -796172189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_66
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1242
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b694d5574e7d748a15698a3abf4828
+      internalID: 1575248183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_67
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1241
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1f17b7f7501c4a930fe9a9564c525
+      internalID: 1071053633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1169
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564d26124a741444aee15f622a6c521
+      internalID: -2026862841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1187
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a0fc76af350d458171b57607c0a99
+      internalID: 489584696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1176
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c083944e60b14dbd6d17f29c32f4a
+      internalID: -2142359252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1159
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d738a3ed8f2f4eb06630fcc272ceb
+      internalID: 169851812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1194
+        width: 118
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ddb65afc77e7141a6ff826b789b97c
+      internalID: 1418403609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_73
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1162
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f9db8f64f2d84da1872a8617a6fac
+      internalID: -1981126499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_74
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1151
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250daf6805728c4a8c85a05811b04ab
+      internalID: 987323267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_75
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1153
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1491a1ea4bf80e24b82f7ae2ce97c16d
+      internalID: 1991221178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_76
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1153
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e616020676b19041b1af9fd0bdac950
+      internalID: -529874104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_77
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1153
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b9088d699d294b8d9b3bb7268024d
+      internalID: 1685098952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1041
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedd40ddbc7ccf544889a54889e5fbb2
+      internalID: 1937520581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_79
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1045
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b0bd11265b564c91c5dedae4d3701
+      internalID: -1154671986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1058
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7a7714ebecef4987d5d2e2ec78ec3
+      internalID: 1151244639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_81
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1063
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ddbe58cedcf846a3d40393874531e
+      internalID: 1612141523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_82
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1066
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46d4e2ccb15c346ae1c2974ce30064
+      internalID: 388943092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_83
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1046
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a986601ec32bca14bb18f5b6b38a0fc7
+      internalID: 1267779698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_84
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1043
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e519a0c1e7304741913ccf73f1ba81c
+      internalID: -1509491169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_85
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1024
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30196904451cfb243bb88f106b047c27
+      internalID: -348400990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_86
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 996
+        width: 44
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab76054580ca74bad9d70c281bfaab
+      internalID: -2142084065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1015
+        width: 49
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9177cee815e8a489bc5a5a5e9a368b
+      internalID: 119563254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_88
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1026
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a73d3f1f5ac5394dbcee2b0fc2868cd
+      internalID: -1235298673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_89
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1034
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e971ab70e5cbb74c9e404b87149a832
+      internalID: 1671654035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_90
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1000
+        width: 44
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce67957ceb4f8c4a9506243afce8db2
+      internalID: 1027332017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 923
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f5fbf6ee15d664c9d619bf70775c09
+      internalID: 1634379501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_92
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 938
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef4ab949857224db28d3012ba727bd
+      internalID: -620246563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 922
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2141965a53644d80a2a764c32c209
+      internalID: -1622951686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 935
+        width: 110
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749c679a2c38bc48bde55f522b40c4a
+      internalID: -2030351020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 891
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de62afb2376f7439e2a5545624c4fd
+      internalID: 1248696363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 894
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f25010fe71e2419d0d503727b7d32
+      internalID: 145125082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 892
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5fea41021d444bb7689d02656fc6b
+      internalID: -1123095092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_98
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 906
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b4b39cfcaa144aaaefb5e7843d010
+      internalID: 2115619939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 777
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ceb3ef1ef8134388afc752c3cbab1
+      internalID: -1028897203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 776
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6acc2849513b4984579d540aba5c2
+      internalID: 695948636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_101
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 798
+        width: 111
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71515951b013a4abcef3638716292c
+      internalID: 689309122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_102
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 800
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151a92e42f2b844daa668d392c36051
+      internalID: -1245579927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_103
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 800
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd24602a9814c4682addabe3433b97
+      internalID: 1326500264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_104
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 797
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12e3dc0d96d917448634d126136aa03
+      internalID: 730790172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 655
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b164f5bc7fbc409b85e65679c3628
+      internalID: -1354548493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 656
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73640832c603c8b4c9c752d756917c1b
+      internalID: -1175080866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_107
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 668
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99bec3a695bd9047bc13092d5bc4643
+      internalID: -1691801754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_108
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 680
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd53e644af210d4d9b2f56816d14ed6
+      internalID: -891461380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_109
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 681
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b65721d1c6fb4ca89c27b5b0ecc74
+      internalID: -102742563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_110
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 686
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2b810e69f2b364abe22cb14d06c073
+      internalID: -328818028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_111
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 679
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bde7c74397d44f81fd51be5552b99
+      internalID: 1835653154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_112
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 662
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c10fef7c43d34fb4aee59df87814d
+      internalID: 797402999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_113
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 653
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f696e1b821964cba173bfe0ea19d2
+      internalID: 745751323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 543
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ae9f524c8984946af30135d14bad94
+      internalID: 774323132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 543
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b891b3e585f94da9893b55a1ec35e
+      internalID: 527350102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_116
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 539
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f702f82698d45d24f829ee62027e72d0
+      internalID: 667353657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 539
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02a13958b9aaa468aa4858132b4e1b
+      internalID: 1181257384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_118
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 539
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778488baa015af34da6fb860911a97ac
+      internalID: 1073786425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_119
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 539
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ce15ac5f26474aaacd02436f8b3d1
+      internalID: 527283304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_120
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 540
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d6ba4a07d6f148a72fa62004d7e4a
+      internalID: -420278349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_121
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 539
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a540e93efb4644f8b226c1a1b4be9c
+      internalID: -904585243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_122
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 539
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b46f2a9a15953f4b8a062304cbd765d
+      internalID: 1432176476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_123
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 539
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0016a1e5f0d19354191d09e9954b491a
+      internalID: -1256073229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_124
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 539
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed4a7e0235901143852c0e9eae11cd5
+      internalID: 422686116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_125
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 413
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb7d4c94b8972949a32904871b5c73a
+      internalID: -1325594938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_126
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 412
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70473fd8d1a2214ca1569e1eb8e9da3
+      internalID: 1941438997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_127
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 412
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ca2898b442a048935137dd518cce7
+      internalID: 1227671496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_128
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 412
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a913b49268dacd44a1c8eed82e5bcaa
+      internalID: 2129502586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_129
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 412
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4f94082ac7ca94590d08b2a45b30c9
+      internalID: -237597639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_130
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 412
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb5513a08cd1d48bea47852d5a33dc
+      internalID: -1505426798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_131
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 411
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c91af79e4313634985f965ce2221476
+      internalID: 639538183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_132
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 411
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b634bfa1f83c4fbeef322087ceeee
+      internalID: -505828595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_133
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 411
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb055c983697045a1fd53dc54c04c7
+      internalID: -243891391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_134
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 412
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3510ee5a6d614ca99af8234bd7722
+      internalID: 524552006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_135
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 412
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d2017fa16c0640a3bb16cca77dd7a
+      internalID: -1417727965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_136
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 412
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aec75f096a60a48b38e5395f6fcc7a
+      internalID: -252742525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_137
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 49
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b632f5f25963a344b08d83f59bdf494
+      internalID: -228164762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 273
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1129b028446548842fd7fc1923287
+      internalID: -573385825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_139
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e05c0ac1208a4a8337769836fef54
+      internalID: 543239900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_140
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 273
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f2c083f30b4c74a989f882b203e113
+      internalID: 889038011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_141
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 273
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6b7a718793c34f8af7cdcc1883475
+      internalID: 454011867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_142
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 273
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11c7b519f847d34e82660823db88672
+      internalID: 423118767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_143
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 273
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ca60fcd31ceae4583e9bb6fd1850fe
+      internalID: -1885758968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_144
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 274
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cafe2a6f66b8645a05a32dcde4072d
+      internalID: 2126822230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_145
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 273
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ea7a873683bb84fad08e7d0b1ec5cf
+      internalID: 1267612659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_146
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 273
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6582d4b3e914a4c8b780177064ddac
+      internalID: 1965688247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_147
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 273
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbfd40a77146694f99b584e2627b3cf
+      internalID: -2035992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_148
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 300
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc542566031244eb395e2f978ae167
+      internalID: -151707449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_149
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3de86ec7f0f2248bdbe12bba3ca355
+      internalID: 2000095454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_150
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 149
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c95c98c015a64fb28bab827f53da6
+      internalID: -1967610101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 149
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ab727d81c3a343873f695f238deaf
+      internalID: -861506077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_152
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43095c27fdae454c903775f1510f11d
+      internalID: 1322358796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_153
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 136
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162eb6b9e4264144a6da53dd352c5a6
+      internalID: -1228536104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_154
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 137
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda4cdb56225be45927906248b008ed
+      internalID: 1355054410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 153
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ea0419ed7e5549a0afe215efed913
+      internalID: 1191547740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_156
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 152
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82978f4dff4b33a429027577dfab76eb
+      internalID: 2067862968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_157
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 163
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878087efce5c94e40af7a93a2e740cf2
+      internalID: -1709230570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_158
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 164
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5c5799d377604ca478b1508e6872a
+      internalID: 1789636388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ce1a2df7e93e4ba31eba7abb6131a
+      internalID: 154573794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85894e69db49bc49b336db1fb44c3aa
+      internalID: -1498846227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_161
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 15
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb35dddc8a57b4dad6092ebcd4346d
+      internalID: 1370719371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_162
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 16
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776dc6093cf8cc43930080b266a79f9
+      internalID: -749279971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_163
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 16
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff694f732e6604aafae8d5e8223ffe
+      internalID: -1848129036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_164
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 16
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e1a62260ef8b498a19db59b9ef3f2
+      internalID: -756639637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_165
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 16
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d701721309f24e8a85560587b08af
+      internalID: -772217751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_166
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 21
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73162807cd60149ab276b88fe86bd3
+      internalID: -884599132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_167
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 21
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e681d8aa6708bb479baf095ce872d06
+      internalID: -1780968713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_168
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 28
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bcb93c3d8f9fa4ea386951a25c0759
+      internalID: -1995867451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_169
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 23
+        width: 33
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc5ecb0fa8f5e4ca99705b43e5c055
+      internalID: 1718444230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_170
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 20
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a027a5469f32844b068652f4387a57
+      internalID: -370897930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_171
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 72
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ce2efb4eeea084ca119025cc9aa8f1
+      internalID: -1874069935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_172
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 61
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69c3ff422e980498265829de16c7db
+      internalID: -1634379277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_173
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01910d1cd00985c40aff260fba9a4117
+      internalID: 122408814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_174
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20218134c567440b94a1276bd31b6f
+      internalID: 42116192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_175
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d313a99752fe047bb1f1b51e8bccdd
+      internalID: 1371252551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_176
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 59
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223489f98cc6c34393b9c5ee43cf08f
+      internalID: 596353350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_177
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 48
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ce6336c5df1a41a7826d3e44e34a1
+      internalID: -1612628800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_178
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 50
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d99549c9cbd464fb557120dedfa01c
+      internalID: -800121451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_179
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e830f942d8012d4181c8f9a24f05db9
+      internalID: 1638555253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_180
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1756878e66e70184881e90958883607b
+      internalID: -1523106653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_181
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 50
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452333938af8c64dbb1d7ce8836cbb0
+      internalID: -1369062576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_182
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965672b765e4e441a28e27c91895e8d
+      internalID: 1601604038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_183
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 39
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcadecfb8c1fe047a5be0f7e241c002
+      internalID: -1642301377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_184
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 39
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be515f06ad250343aa76780032751cc
+      internalID: 725519855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_185
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bdb153a2c24045b3e3aaae86b7823
+      internalID: -866757579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_186
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 29
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a41dcdc48b855240a47f8d97c56051b
+      internalID: 267670602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_187
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5dbf027622add48a9b768cd1f01e31
+      internalID: -616484557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_188
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1037f76103bb0fd48a01a67626521c89
+      internalID: 202849055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_189
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eabaac6e216f344b7a5a56275ab207
+      internalID: 1723761804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_190
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 18
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42831a2e23fdfa84cb7bade89b7b9e9d
+      internalID: 1696183635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_191
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347889238a8e11d489aee31ca014e7d7
+      internalID: 422340309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sailor Venus_192
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356692551c32a842ac64b6a3f17f60c
+      internalID: 2117139119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sailor Venus_0: -1817682342
+      Sailor Venus_1: 1663679970
+      Sailor Venus_10: 1940907744
+      Sailor Venus_100: 695948636
+      Sailor Venus_101: 689309122
+      Sailor Venus_102: -1245579927
+      Sailor Venus_103: 1326500264
+      Sailor Venus_104: 730790172
+      Sailor Venus_105: -1354548493
+      Sailor Venus_106: -1175080866
+      Sailor Venus_107: -1691801754
+      Sailor Venus_108: -891461380
+      Sailor Venus_109: -102742563
+      Sailor Venus_11: 738298823
+      Sailor Venus_110: -328818028
+      Sailor Venus_111: 1835653154
+      Sailor Venus_112: 797402999
+      Sailor Venus_113: 745751323
+      Sailor Venus_114: 774323132
+      Sailor Venus_115: 527350102
+      Sailor Venus_116: 667353657
+      Sailor Venus_117: 1181257384
+      Sailor Venus_118: 1073786425
+      Sailor Venus_119: 527283304
+      Sailor Venus_12: -74585863
+      Sailor Venus_120: -420278349
+      Sailor Venus_121: -904585243
+      Sailor Venus_122: 1432176476
+      Sailor Venus_123: -1256073229
+      Sailor Venus_124: 422686116
+      Sailor Venus_125: -1325594938
+      Sailor Venus_126: 1941438997
+      Sailor Venus_127: 1227671496
+      Sailor Venus_128: 2129502586
+      Sailor Venus_129: -237597639
+      Sailor Venus_13: -1417546770
+      Sailor Venus_130: -1505426798
+      Sailor Venus_131: 639538183
+      Sailor Venus_132: -505828595
+      Sailor Venus_133: -243891391
+      Sailor Venus_134: 524552006
+      Sailor Venus_135: -1417727965
+      Sailor Venus_136: -252742525
+      Sailor Venus_137: -228164762
+      Sailor Venus_138: -573385825
+      Sailor Venus_139: 543239900
+      Sailor Venus_14: 1449701985
+      Sailor Venus_140: 889038011
+      Sailor Venus_141: 454011867
+      Sailor Venus_142: 423118767
+      Sailor Venus_143: -1885758968
+      Sailor Venus_144: 2126822230
+      Sailor Venus_145: 1267612659
+      Sailor Venus_146: 1965688247
+      Sailor Venus_147: -2035992466
+      Sailor Venus_148: -151707449
+      Sailor Venus_149: 2000095454
+      Sailor Venus_15: -333352547
+      Sailor Venus_150: -1967610101
+      Sailor Venus_151: -861506077
+      Sailor Venus_152: 1322358796
+      Sailor Venus_153: -1228536104
+      Sailor Venus_154: 1355054410
+      Sailor Venus_155: 1191547740
+      Sailor Venus_156: 2067862968
+      Sailor Venus_157: -1709230570
+      Sailor Venus_158: 1789636388
+      Sailor Venus_159: 154573794
+      Sailor Venus_16: 1068765378
+      Sailor Venus_160: -1498846227
+      Sailor Venus_161: 1370719371
+      Sailor Venus_162: -749279971
+      Sailor Venus_163: -1848129036
+      Sailor Venus_164: -756639637
+      Sailor Venus_165: -772217751
+      Sailor Venus_166: -884599132
+      Sailor Venus_167: -1780968713
+      Sailor Venus_168: -1995867451
+      Sailor Venus_169: 1718444230
+      Sailor Venus_17: 372767451
+      Sailor Venus_170: -370897930
+      Sailor Venus_171: -1874069935
+      Sailor Venus_172: -1634379277
+      Sailor Venus_173: 122408814
+      Sailor Venus_174: 42116192
+      Sailor Venus_175: 1371252551
+      Sailor Venus_176: 596353350
+      Sailor Venus_177: -1612628800
+      Sailor Venus_178: -800121451
+      Sailor Venus_179: 1638555253
+      Sailor Venus_18: -1611902880
+      Sailor Venus_180: -1523106653
+      Sailor Venus_181: -1369062576
+      Sailor Venus_182: 1601604038
+      Sailor Venus_183: -1642301377
+      Sailor Venus_184: 725519855
+      Sailor Venus_185: -866757579
+      Sailor Venus_186: 267670602
+      Sailor Venus_187: -616484557
+      Sailor Venus_188: 202849055
+      Sailor Venus_189: 1723761804
+      Sailor Venus_19: -1294175897
+      Sailor Venus_190: 1696183635
+      Sailor Venus_191: 422340309
+      Sailor Venus_192: 2117139119
+      Sailor Venus_2: 1796661889
+      Sailor Venus_20: 314129289
+      Sailor Venus_21: -717403241
+      Sailor Venus_22: 185221915
+      Sailor Venus_23: 1810775577
+      Sailor Venus_24: 1821702041
+      Sailor Venus_25: 735300574
+      Sailor Venus_26: -2046436423
+      Sailor Venus_27: -758664757
+      Sailor Venus_28: -227399957
+      Sailor Venus_29: 1954018617
+      Sailor Venus_3: 1930056769
+      Sailor Venus_30: 90742034
+      Sailor Venus_31: -2073084216
+      Sailor Venus_32: 1480306351
+      Sailor Venus_33: -851408540
+      Sailor Venus_34: -720897703
+      Sailor Venus_35: 874202595
+      Sailor Venus_36: 829541599
+      Sailor Venus_37: 1124901639
+      Sailor Venus_38: -2055825410
+      Sailor Venus_39: -596649093
+      Sailor Venus_4: -1904771477
+      Sailor Venus_40: 667589432
+      Sailor Venus_41: -1707673064
+      Sailor Venus_42: -1103432605
+      Sailor Venus_43: 630905271
+      Sailor Venus_44: 1577948415
+      Sailor Venus_45: -573919529
+      Sailor Venus_46: 1462684553
+      Sailor Venus_47: -1589491512
+      Sailor Venus_48: -375099806
+      Sailor Venus_49: 1076366706
+      Sailor Venus_5: 58770865
+      Sailor Venus_50: -1144390480
+      Sailor Venus_51: -1715886732
+      Sailor Venus_52: 48625108
+      Sailor Venus_53: -1745101188
+      Sailor Venus_54: 1800516794
+      Sailor Venus_55: 1058486614
+      Sailor Venus_56: -1614816715
+      Sailor Venus_57: 535622571
+      Sailor Venus_58: -1292168453
+      Sailor Venus_59: -2012654278
+      Sailor Venus_6: 2121916899
+      Sailor Venus_60: 611561891
+      Sailor Venus_61: -336972128
+      Sailor Venus_62: -1065239548
+      Sailor Venus_63: -846445214
+      Sailor Venus_64: 532382229
+      Sailor Venus_65: -796172189
+      Sailor Venus_66: 1575248183
+      Sailor Venus_67: 1071053633
+      Sailor Venus_68: -2026862841
+      Sailor Venus_69: 489584696
+      Sailor Venus_7: -264936809
+      Sailor Venus_70: -2142359252
+      Sailor Venus_71: 169851812
+      Sailor Venus_72: 1418403609
+      Sailor Venus_73: -1981126499
+      Sailor Venus_74: 987323267
+      Sailor Venus_75: 1991221178
+      Sailor Venus_76: -529874104
+      Sailor Venus_77: 1685098952
+      Sailor Venus_78: 1937520581
+      Sailor Venus_79: -1154671986
+      Sailor Venus_8: -525097251
+      Sailor Venus_80: 1151244639
+      Sailor Venus_81: 1612141523
+      Sailor Venus_82: 388943092
+      Sailor Venus_83: 1267779698
+      Sailor Venus_84: -1509491169
+      Sailor Venus_85: -348400990
+      Sailor Venus_86: -2142084065
+      Sailor Venus_87: 119563254
+      Sailor Venus_88: -1235298673
+      Sailor Venus_89: 1671654035
+      Sailor Venus_9: 1625695140
+      Sailor Venus_90: 1027332017
+      Sailor Venus_91: 1634379501
+      Sailor Venus_92: -620246563
+      Sailor Venus_93: -1622951686
+      Sailor Venus_94: -2030351020
+      Sailor Venus_95: 1248696363
+      Sailor Venus_96: 145125082
+      Sailor Venus_97: -1123095092
+      Sailor Venus_98: 2115619939
+      Sailor Venus_99: -1028897203
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
