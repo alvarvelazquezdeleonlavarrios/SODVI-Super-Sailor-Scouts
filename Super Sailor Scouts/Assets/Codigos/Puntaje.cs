@@ -8,9 +8,14 @@ public class Puntaje : MonoBehaviour {
     [SerializeField] private Text texto_puntaje;
     [SerializeField] private Text texto_coleccionables;
 
+    [Space]
+    [Header("Referencias Externas")]
+    [SerializeField] private AudioClip sonido_coleccionable;
+
     private float puntuacion = 0f;       // Puntos basados en la distancia recorrida
     private int coleccionables = 0;      // Puntaje para los coleccionables
     private float pos_inicial_x = 0f;
+    private AudioSource audio_source;
 
 
     /*** Funciones ***/
@@ -25,6 +30,8 @@ public class Puntaje : MonoBehaviour {
 
         // Muestra en pantalla la cantidad inicial de coleccionables
         texto_coleccionables.text = "Coleccionables: " + coleccionables;
+
+        audio_source = GetComponent<AudioSource>();
     }
 
     void Update() {
@@ -39,6 +46,9 @@ public class Puntaje : MonoBehaviour {
             coleccionables++;
             texto_coleccionables.text = "Coleccionables: " + coleccionables;
             Destroy(objeto.gameObject);
+
+            audio_source.clip = sonido_coleccionable;
+            audio_source.Play();
         }
     }
 

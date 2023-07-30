@@ -15,23 +15,30 @@ public class MenuPrincipal : MonoBehaviour {
     [SerializeField] private GameObject cargador;
 
     private SailorScout sailor_scout;
+    private AudioSource audio_source;
 
     void Start() {
         // Se asegura que la pantalla principal esté activa al comenzar el juego
         pantalla_principal.SetActive(true);
         pantalla_seleccion_personaje.SetActive(false);
+
+        audio_source = GetComponent<AudioSource>();
     }
 
     // Al presionar el botón "Jugar", abre el menú para seleccionar un personaje jugable
     public void activarMenuSeleccionPersonaje() {
         pantalla_principal.SetActive(false);
         pantalla_seleccion_personaje.SetActive(true);
+
+        audio_source.Play();
     }
 
     // Permite al jugador volver al menú principal
     public void volverPantallaPrincipal() {
         pantalla_seleccion_personaje.SetActive(false);
         pantalla_principal.SetActive(true);
+
+        audio_source.Play();
     }
 
     // Dependiendo el botón que se presione, es el personaje que se va a generar al momento de cargar el nivel
@@ -64,10 +71,14 @@ public class MenuPrincipal : MonoBehaviour {
 
             default: break;
         }
+
+        audio_source.Play();
     }
 
     // Carga la escena de acuerdo a su nombre
     public void cargarEscena(string nombre) {
+        audio_source.Play();
+
         // Genera al personaje seleccionado
         switch (sailor_scout) {
 
@@ -105,6 +116,7 @@ public class MenuPrincipal : MonoBehaviour {
     }
 
     public void cerrarJuego() {
+        audio_source.Play();
         Application.Quit();
     }
 }

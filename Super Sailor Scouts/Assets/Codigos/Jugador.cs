@@ -13,10 +13,12 @@ public class Jugador : MonoBehaviour {
     [Header("Referencias Externas")]
     [SerializeField] private Camera camara;
     [SerializeField] private GameObject fondo_escenario;
+    [SerializeField] private AudioClip sonido_salto;
 
     // Referencias internas
     private Rigidbody2D rb;
     private Animator animator;
+    private AudioSource audio_source;
 
 
     /*** Funciones ***/
@@ -24,6 +26,7 @@ public class Jugador : MonoBehaviour {
     void Start() {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        audio_source = GetComponent<AudioSource>();
 
         fondo_escenario = GameObject.Find("Fondo");
     }
@@ -38,6 +41,8 @@ public class Jugador : MonoBehaviour {
 
         // Si por alguna razón el jugador se cae al vacío, pierde la partida automáticamente
         if (transform.position.y <= -9.0f) {
+            generarPuntuacionFinal();
+
             Destroy(gameObject);
             SceneManager.LoadScene("Fin del Juego");
         }
@@ -51,9 +56,7 @@ public class Jugador : MonoBehaviour {
 
         // Detecta si el jugador tocó a un enemigo
         if (collision.gameObject.tag == "Enemigo") {
-            GameObject puntuacion_final = new GameObject("Puntuacion Final");
-            puntuacion_final.transform.position = new Vector3(GetComponent<Puntaje>().getPuntuacion(), GetComponent<Puntaje>().getColeccionables(), 0);
-            DontDestroyOnLoad(puntuacion_final);
+            generarPuntuacionFinal();
 
             Destroy(gameObject);
             SceneManager.LoadScene("Fin del Juego");
@@ -73,6 +76,15 @@ public class Jugador : MonoBehaviour {
             rb.AddForce(Vector2.up * fuerza_salto, ForceMode2D.Impulse);
             en_suelo = false;
             animator.SetTrigger("Saltar");
+
+            audio_source.clip = sonido_salto;
+            audio_source.Play();
         }
+    }
+
+    private void generarPuntuacionFinal() {
+        GameObject puntuacion_final = new GameObject("Puntuacion Final");
+        puntuacion_final.transform.position = new Vector3(GetComponent<Puntaje>().getPuntuacion(), GetComponent<Puntaje>().getColeccionables(), 0);
+        DontDestroyOnLoad(puntuacion_final);
     }
 }
