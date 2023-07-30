@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class MenuPrincipal : MonoBehaviour {
@@ -6,6 +7,7 @@ public class MenuPrincipal : MonoBehaviour {
     [Header("Pantallas")]
     [SerializeField] private GameObject pantalla_principal;
     [SerializeField] private GameObject pantalla_seleccion_personaje;
+    [SerializeField] private Image flecha_seleccion;
 
     // Este objeto permite generar en la escena "Nivel 1" al personaje seleccionado desde la escena de Menú Principal
     [Space]
@@ -37,22 +39,27 @@ public class MenuPrincipal : MonoBehaviour {
         switch (personaje_id) {
             case 0:
                 sailor_scout = SailorScout.sailor_moon;
+                flecha_seleccion.rectTransform.localPosition = new Vector3(0, 270, 0);
                 break;
 
             case 1:
                 sailor_scout = SailorScout.sailor_mercury;
+                flecha_seleccion.rectTransform.localPosition = new Vector3(-340, 270, 0);
                 break;
 
             case 2:
                 sailor_scout = SailorScout.sailor_mars;
+                flecha_seleccion.rectTransform.localPosition = new Vector3(340, 270, 0);
                 break;
 
             case 3:
                 sailor_scout = SailorScout.sailor_jupiter;
+                flecha_seleccion.rectTransform.localPosition = new Vector3(-680, 270, 0);
                 break;
 
             case 4:
                 sailor_scout = SailorScout.sailor_venus;
+                flecha_seleccion.rectTransform.localPosition = new Vector3(680, 270, 0);
                 break;
 
             default: break;

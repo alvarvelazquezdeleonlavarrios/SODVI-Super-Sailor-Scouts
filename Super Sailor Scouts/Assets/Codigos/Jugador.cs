@@ -51,6 +51,10 @@ public class Jugador : MonoBehaviour {
 
         // Detecta si el jugador tocó a un enemigo
         if (collision.gameObject.tag == "Enemigo") {
+            GameObject puntuacion_final = new GameObject("Puntuacion Final");
+            puntuacion_final.transform.position = new Vector3(GetComponent<Puntaje>().getPuntuacion(), GetComponent<Puntaje>().getColeccionables(), 0);
+            DontDestroyOnLoad(puntuacion_final);
+
             Destroy(gameObject);
             SceneManager.LoadScene("Fin del Juego");
         }

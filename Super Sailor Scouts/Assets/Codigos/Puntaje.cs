@@ -8,6 +8,7 @@ public class Puntaje : MonoBehaviour {
     [SerializeField] private Text texto_puntaje;
     [SerializeField] private Text texto_coleccionables;
 
+    private float puntuacion = 0f;       // Puntos basados en la distancia recorrida
     private int coleccionables = 0;      // Puntaje para los coleccionables
     private float pos_inicial_x = 0f;
 
@@ -28,7 +29,8 @@ public class Puntaje : MonoBehaviour {
 
     void Update() {
         // Calcula el puntaje actual de acuerdo a la posición del jugador
-        texto_puntaje.text = "Puntuacion: " + Mathf.Floor(transform.position.x - pos_inicial_x);
+        puntuacion = Mathf.Floor(transform.position.x - pos_inicial_x);
+        texto_puntaje.text = "Puntuacion: " + (int)puntuacion;
     }
 
     void OnTriggerEnter2D(Collider2D objeto) {
@@ -38,6 +40,14 @@ public class Puntaje : MonoBehaviour {
             texto_coleccionables.text = "Coleccionables: " + coleccionables;
             Destroy(objeto.gameObject);
         }
+    }
+
+    public float getPuntuacion() {
+        return puntuacion;
+    }
+
+    public int getColeccionables() {
+        return coleccionables;
     }
 
 }
