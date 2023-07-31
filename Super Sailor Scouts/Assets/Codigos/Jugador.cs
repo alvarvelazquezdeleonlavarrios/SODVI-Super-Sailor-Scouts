@@ -40,7 +40,7 @@ public class Jugador : MonoBehaviour {
         fondo_escenario.transform.position = new Vector3(camara.transform.position.x, 3.6f, 0f);
 
         // Si por alguna razón el jugador se cae al vacío, pierde la partida automáticamente
-        if (transform.position.y <= -9.0f) {
+        if (transform.position.y <= -5.0f) {
             generarPuntuacionFinal();
 
             Destroy(gameObject);

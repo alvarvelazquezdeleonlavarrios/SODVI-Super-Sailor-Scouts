@@ -29,4 +29,5 @@ Genera un escenario aleatorio. Si la distancia entre la posición actual y la ú
 ## Usos y Consideraciones
 1. Asignar esta script a un objeto vacío en la escena "Nivel 1". Debe ser hijo del objeto Jugador y estar situado a 40 unidades a la derecha de este.
 2. El arreglo de prefabs de plataformas debe tener por lo menos un elemento.
-3. En la escena "Nivel 1", al inicio debe existir un único objeto llamado "Plataforma 1" para que este pueda ser agregado a la lista y, posteriormente, eliminado.
+3. Cada prefabricado de escenario debe tener una longitud de 40 unidades métricas y su centro debe ubicarse a la mitad (es decir, debe medir desde -20 hasta 20 en el eje X)
+4. En la escena "Nivel 1", al inicio debe existir un único objeto llamado "Plataforma 1" para que este pueda ser agregado a la lista y, posteriormente, eliminado.
