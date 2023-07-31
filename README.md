@@ -15,8 +15,8 @@ Proyecto individual sobre un Endless Runner de Sailor Moon para aprender las car
 ## Descripción del Proyecto
 Este proyecto partió con la idea de primero crear a los personajes jugables. Agregué a más de un personaje jugable para que el usuario pueda seleccionar con quién jugar. Esto lo pude hacer programando una sentencia switch-case, asignando valores a botones en pantalla, y mediante la función *DontDestroyOnLoad* llevar un transform con dicho valor para que al inicio de la escena de nivel se genere al personaje en cuestión.
 
-- [Imagen 1-1](/src/Imagen1-1.png)
-- [Imagen 1-2](/src/Imagen1-2.png)
+![Imagen 1-1](/src/Imagen1-1.png)
+![Imagen 1-2](/src/Imagen1-2.png)
 
 Luego importé las imágenes correspondientes para cada escenario que más adelante se generaría aleatoriamente. A cada uno de estos configuré sus respectivas cajas de colisión para que el jugador pudiese caminar sobre los escenarios, además de que estos tienen un tamaño de 40 unidades métricas. Esto último lo hice para que los escenarios se fuesen generando sin que hubiesen huecos entre ellos y  porque en el código permite generarlos con respecto a la posición en del generador en el eje X en lugar de pasado cierto tiempo (evita generar suelos traslapados).
 
