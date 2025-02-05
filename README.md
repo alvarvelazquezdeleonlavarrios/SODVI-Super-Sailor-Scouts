@@ -1,16 +1,16 @@
-# Super-Sailor-Scouts
+# SODVI: Super Sailor Scouts
 
-**Equipo:** El Infiltrado de SODVI :v
+**Equipo:** (No Aplica)
 
 **Integrantes:**
 - Alvar Velázquez de León Lavarrios
 
 **Semestre:** 2024-1
 
-**Torre de Niveles:** Nivel -1: "Infiltrado" (No supe qué poner aquí...)
+**Torre de Niveles:** (No Aplica)
 
 ## Introducción
-Proyecto individual sobre un Endless Runner de Sailor Moon para aprender las características básicas de un juego 2D en Unity. Proyecto hecho para el curso de Unity Básico de SODVI.
+Proyecto individual sobre un *Endless Runner* de Sailor Moon para aprender las características básicas de un juego 2D en Unity. Proyecto hecho para el curso de Unity Básico de SODVI.
 
 ## Descripción del Proyecto
 Este proyecto partió con la idea de primero crear a los personajes jugables. Agregué a más de un personaje jugable para que el usuario pueda seleccionar con quién jugar. Esto lo pude hacer programando una sentencia switch-case, asignando valores a botones en pantalla, y mediante la función *DontDestroyOnLoad* llevar un transform con dicho valor para que al inicio de la escena de nivel se genere al personaje en cuestión.
